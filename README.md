@@ -17,7 +17,8 @@ Attempted
 Need to be improved
 --------------------------------------------------------------------------------
 
- - (*official answer)[LeetCode002_AddTwoNumbers](\LC000+\LeetCode002_AddTwoNumbers.cpp)
+ - [LeetCode002_AddTwoNumbers](\LC000+\LeetCode002_AddTwoNumbers.cpp) (see official solution)
+ - [LeetCode009_PalindromeNumber](\LC000+\LeetCode009_PalindromeNumber.cpp) (official solution not efficient enough)
  - [LeetCode014_LongestCommonPrefix](\LC000+\LeetCode014_LongestCommonPrefix.cpp)
 
 Solved
