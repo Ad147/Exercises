@@ -18,6 +18,7 @@ Need to be improved
 --------------------------------------------------------------------------------
 
  - [LeetCode002_AddTwoNumbers](\LC000+\LeetCode002_AddTwoNumbers.cpp) (see official solution)
+ - [LeetCode007_ReverseInteger](\LC000+\LeetCode007_ReverseInteger.cpp) (official solution not efficient)
  - [LeetCode009_PalindromeNumber](\LC000+\LeetCode009_PalindromeNumber.cpp) (official solution not efficient enough)
  - [LeetCode014_LongestCommonPrefix](\LC000+\LeetCode014_LongestCommonPrefix.cpp)
 
