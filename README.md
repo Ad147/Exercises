@@ -40,6 +40,8 @@ Solved
  - [LeetCode007_ReverseInteger](\LC000+\LeetCode007_ReverseInteger.cpp)
  - [LeetCode009_PalindromeNumber](\LC000+\LeetCode009_PalindromeNumber.cpp)
  - [LeetCode026_RemoveDuplicatesfromSortedArray](\LC000+\LeetCode026_RemoveDuplicatesfromSortedArray.cpp)
+ - LeetCode141-LinkedListCycle
+ - LeetCode142-LinkedListCycleII
  - [LeetCode283_MoveZeroes](\LC200+\LeetCode283_MoveZeroes.cpp)
  - [LeetCode557_ReverseWordsinaStringIII](\LC500+\LeetCode557_ReverseWordsinaStringIII.cpp)
  - [LeetCode707_DesignLinkedList](\LC700+\LeetCode707_DesignLinkedList.cpp)
