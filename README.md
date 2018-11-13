@@ -10,41 +10,40 @@ Ad
 Attempted
 --------------------------------------------------------------------------------
 
-Need to be improved
---------------------------------------------------------------------------------
-
- - [LeetCode002_AddTwoNumbers](\LC000+\LeetCode002_AddTwoNumbers.cpp) [M] (to see official solution)
- - [LeetCode014_LongestCommonPrefix](\LC000+\LeetCode014_LongestCommonPrefix.cpp)
- - [LeetCode027_RemoveElement](\LC000+\LeetCode027_RemoveElement.cpp)
- - [LeetCode028_ImplementstrStr](\LC000+\LeetCode028_ImplementstrStr.cpp)
- - [LeetCode054_SpiralMatrix](\LC000+\LeetCode054_SpiralMatrix.cpp) [M]
- - [LeetCode066_PlusOne](\LC000+\LeetCode066_PlusOne.cpp)
- - [LeetCode067_AddBinary](\LC000+\LeetCode067_AddBinary.cpp)
- - [LeetCode118_PascalsTriangle](\LC100+\LeetCode118_PascalsTriangle.cpp)
- - [LeetCode119_PascalsTriangleII](\LC100+\LeetCode119_PascalsTriangleII.cpp)
- - [LeetCode151_ReverseWordsinaString](\LC100+\LeetCode151_ReverseWordsinaString.cpp) [M]
- - [LeetCode167_TwoSumII-InputArrayisSorted](\LC100+\LeetCode167_TwoSumII-InputArrayisSorted.cpp)
- - [LeetCode189_RotateArray](\LC100+\LeetCode189_RotateArray.cpp)
- - [LeetCode209_MinimumSizeSubarraySum](\LC200+\LeetCode209_MinimumSizeSubarraySum.cpp) [M]
- - [LeetCode344_ReverseString](\LC300+\LeetCode344_ReverseString.cpp)
- - [LeetCode485_MaxConsecutiveOnes](\LC400+\LeetCode485_MaxConsecutiveOnes.cpp)
- - [LeetCode498_DiagonalTraverse](\LC400+\LeetCode498_DiagonalTraverse.cpp) [M]
- - [LeetCode561_ArrayPartitionI](\LC500+\LeetCode561_ArrayPartitionI.cpp)
- - [LeetCode724_FindPivotIndex](\LC700+\LeetCode724_FindPivotIndex.cpp)
- - [LeetCode747_LargestNumberAtLeastTwiceofOthers](\LC700+\LeetCode747_LargestNumberAtLeastTwiceofOthers.cpp)
-
 Solved
 --------------------------------------------------------------------------------
 
- - [LeetCode001_TwoSum](\LC000+\LeetCode001_TwoSum.cpp)
- - [LeetCode007_ReverseInteger](\LC000+\LeetCode007_ReverseInteger.cpp)
- - [LeetCode009_PalindromeNumber](\LC000+\LeetCode009_PalindromeNumber.cpp)
- - [LeetCode026_RemoveDuplicatesfromSortedArray](\LC000+\LeetCode026_RemoveDuplicatesfromSortedArray.cpp)
+ - LeetCode001_TwoSum
+ - LeetCode007_ReverseInteger
+ - LeetCode009_PalindromeNumber
+ - LeetCode019-RemoveNthNodeFromEndOfList (Beats 100%)
+ - LeetCode026_RemoveDuplicatesfromSortedArray
  - LeetCode141-LinkedListCycle
  - LeetCode142-LinkedListCycleII
- - [LeetCode283_MoveZeroes](\LC200+\LeetCode283_MoveZeroes.cpp)
- - [LeetCode557_ReverseWordsinaStringIII](\LC500+\LeetCode557_ReverseWordsinaStringIII.cpp)
- - [LeetCode707_DesignLinkedList](\LC700+\LeetCode707_DesignLinkedList.cpp)
+ - LeetCode160-IntersectionOfTwoLinkedLists
+ - LeetCode283_MoveZeroes
+ - LeetCode557_ReverseWordsinaStringIII
+ - LeetCode707_DesignLinkedList
+
+ - LeetCode002_AddTwoNumbers (M) (to see official solution)
+ - LeetCode014_LongestCommonPrefix
+ - LeetCode027_RemoveElement
+ - LeetCode028_ImplementstrStr
+ - LeetCode054_SpiralMatrix (M)
+ - LeetCode066_PlusOne
+ - LeetCode067_AddBinary
+ - LeetCode118_PascalsTriangle
+ - LeetCode119_PascalsTriangleII
+ - LeetCode151_ReverseWordsinaString (M)
+ - LeetCode167_TwoSumII-InputArrayisSorted
+ - LeetCode189_RotateArray
+ - LeetCode209_MinimumSizeSubarraySum (M)
+ - LeetCode344_ReverseString
+ - LeetCode485_MaxConsecutiveOnes
+ - LeetCode498_DiagonalTraverse (M)
+ - LeetCode561_ArrayPartitionI
+ - LeetCode724_FindPivotIndex
+ - LeetCode747_LargestNumberAtLeastTwiceofOthers
 
 --------------------------------------------------------------------------------
 
