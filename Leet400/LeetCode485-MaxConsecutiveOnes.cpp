@@ -1,4 +1,4 @@
-// LeetCode485_MaxConsecutiveOnes.cpp
+// LeetCode485-MaxConsecutiveOnes.cpp
 // Ad
 // Given a binary array, find the maximum number of consecutive 1s in this array.
 // Note:

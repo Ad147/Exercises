@@ -1,4 +1,4 @@
-// LeetCode344_ReverseString.cpp
+// LeetCode344-ReverseString.cpp
 // Ad
 // Write a function that takes a string as input and returns the string reversed.
 

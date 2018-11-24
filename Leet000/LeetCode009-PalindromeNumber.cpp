@@ -1,4 +1,4 @@
-// LeetCode009_PalindromeNumber.cpp
+// LeetCode009-PalindromeNumber.cpp
 // Ad
 // Determine whether an integer is a palindrome.
 // An integer is a palindrome when it reads the same backward as forward.

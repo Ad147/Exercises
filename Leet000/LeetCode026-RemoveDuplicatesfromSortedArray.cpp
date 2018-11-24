@@ -1,4 +1,4 @@
-// LeetCode026_RemoveDuplicatesfromSortedArray.cpp
+// LeetCode026-RemoveDuplicatesfromSortedArray.cpp
 // Ad
 // Remove duplicates from sorted array
 

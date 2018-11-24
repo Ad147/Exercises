@@ -1,4 +1,4 @@
-# LeetCode747_LargestNumberAtLeastTwiceofOthers.py
+# LeetCode747-LargestNumberAtLeastTwiceofOthers.py
 # Ad
 # In a given integer array nums, there is always exactly one largest element.
 # Find whether the largest element in the array is at least twice as every other number in the array.
@@ -6,13 +6,14 @@
 # nums will have a length in the range [1, 50].
 # Every nums[i] will be an integer in the range [0, 99].
 
-# solution --------------------------------------------------------------------
+# solution =====================================================================
+
 
 class Solution:
     def dominantIndex(self, nums):
         index, max1, max2 = 0, 0, 0
         for i, n in enumerate(nums):
-            if n > max1:
+                if n > max1:
                 max2 = max1
                 max1 = n
                 index = i
@@ -20,6 +21,4 @@ class Solution:
                 max2 = n
         if max1 >= max2 * 2:
             return index
-        return - 1
-        
-# test ------------------------------------------------------------------------
+        return -1

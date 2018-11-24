@@ -1,4 +1,4 @@
-// LeetCode028_ImplementstrStr.cpp
+// LeetCode028-ImplementstrStr.cpp
 // Ad
 // Implement strStr().
 // Return the index of the first occurence of needle in haystack, or -1 if needle is not part of haystack.

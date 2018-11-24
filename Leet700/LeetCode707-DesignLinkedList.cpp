@@ -1,4 +1,4 @@
-// LeetCode707_DesignLinkedList.cpp
+// LeetCode707-DesignLinkedList.cpp
 // Ad
 // Design your implementation of the linked list.
 // You can choose to use the singly linked list or the doubly linked list.
