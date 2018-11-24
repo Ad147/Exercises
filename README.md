@@ -8,43 +8,45 @@ Ad
 Solved
 --------------------------------------------------------------------------------
 
- - LeetCode001_TwoSum.cpp (**Beats 99.96%**)
- - LeetCode002_AddTwoNumbers.cpp [M]
- - LeetCode007_ReverseInteger.cpp
- - LeetCode009_PalindromeNumber.cpp
- - LeetCode014_LongestCommonPrefix.cpp
- - LeetCode019-RemoveNthNodeFromEndOfList.cpp [M] (**Beats 100.00%**)
- - LeetCode021-MergeTwoSortedLists.cpp
- - LeetCode026_RemoveDuplicatesfromSortedArray.cpp (**Beats 99.08%**)
- - LeetCode027_RemoveElement.cpp
- - LeetCode028_ImplementstrStr.cpp
- - LeetCode054_SpiralMatrix.cpp [M]
- - LeetCode066_PlusOne.cpp
- - LeetCode067_AddBinary.cpp
- - LeetCode112-PathSum.cpp (**Beats 100.00%**)
- - LeetCode118_PascalsTriangle.cpp
- - LeetCode119_PascalsTriangleII.cpp
- - LeetCode141-LinkedListCycle.cpp (**Beats 100.00%**)
- - LeetCode142-LinkedListCycleII.cpp [M]
- - LeetCode151_ReverseWordsinaString.cpp [M]
- - LeetCode160-IntersectionOfTwoLinkedLists.cpp
- - LeetCode167_TwoSumII-InputArrayisSorted.cpp
- - LeetCode189_RotateArray.cpp
- - LeetCode209_MinimumSizeSubarraySum.cpp [M]
- - LeetCode283_MoveZeroes.cpp (**Beats 100.00%**)
- - LeetCode344_ReverseString.cpp
- - LeetCode485_MaxConsecutiveOnes.cpp
- - LeetCode498_DiagonalTraverse.cpp [M]
- - LeetCode557_ReverseWordsinaStringIII.cpp (**Beats 96.46%**)
- - LeetCode561_ArrayPartitionI.cpp
- - LeetCode707_DesignLinkedList.cpp
- - LeetCode724_FindPivotIndex.cpp
-    - LeetCode724_FindPivotIndex.py
- - LeetCode747_LargestNumberAtLeastTwiceofOthers.cpp
-    - LeetCode747_LargestNumberAtLeastTwiceofOthers.py
+- LeetCode001-TwoSum.cpp (**Beats 99.96%**)
+- LeetCode002-AddTwoNumbers.cpp [M]
+- LeetCode007-ReverseInteger.cpp
+- LeetCode009-PalindromeNumber.cpp
+- LeetCode014-LongestCommonPrefix.cpp
+- LeetCode019-RemoveNthNodeFromEndOfList.cpp [M] (**Beats 100.00%**)
+- LeetCode021-MergeTwoSortedLists.cpp
+- LeetCode026-RemoveDuplicatesfromSortedArray.cpp (**Beats 99.08%**)
+- LeetCode027-RemoveElement.cpp
+- LeetCode028-ImplementstrStr.cpp
+- LeetCode054-SpiralMatrix.cpp [M]
+- LeetCode066-PlusOne.cpp
+- LeetCode067-AddBinary.cpp
+- LeetCode112-PathSum.cpp (**Beats 100.00%**)
+- LeetCode118-PascalsTriangle.cpp
+- LeetCode119-PascalsTriangleII.cpp
+- LeetCode141-LinkedListCycle.cpp (**Beats 100.00%**)
+- LeetCode142-LinkedListCycleII.cpp [M]
+- LeetCode151-ReverseWordsinaString.cpp [M]
+- LeetCode160-IntersectionOfTwoLinkedLists.cpp
+- LeetCode167-TwoSumII-InputArrayisSorted.cpp
+- LeetCode189-RotateArray.cpp
+- LeetCode209-MinimumSizeSubarraySum.cpp [M]
+- LeetCode283-MoveZeroes.cpp (**Beats 100.00%**)
+- LeetCode344-ReverseString.cpp
+- LeetCode485-MaxConsecutiveOnes.cpp
+- LeetCode498-DiagonalTraverse.cpp [M]
+- LeetCode557-ReverseWordsinaStringIII.cpp (**Beats 96.46%**)
+- LeetCode561-ArrayPartitionI.cpp
+- LeetCode707-DesignLinkedList.cpp
+- LeetCode724-FindPivotIndex.cpp
+    - LeetCode724-FindPivotIndex.py
+- LeetCode747-LargestNumberAtLeastTwiceofOthers.cpp
+    - LeetCode747-LargestNumberAtLeastTwiceofOthers.py
 
 Attempted
 --------------------------------------------------------------------------------
+
+- LeetCode070-ClimbingStairs.cpp (Time exceeded)
 
 --------------------------------------------------------------------------------
 
