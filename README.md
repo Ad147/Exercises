@@ -37,6 +37,7 @@ Solved
 - LeetCode498-DiagonalTraverse.cpp [M]
 - LeetCode557-ReverseWordsinaStringIII.cpp (**Beats 96.46%**)
 - LeetCode561-ArrayPartitionI.cpp
+- LeetCode595-BigCountries.mysql
 - LeetCode707-DesignLinkedList.cpp
 - LeetCode724-FindPivotIndex.cpp
     - LeetCode724-FindPivotIndex.py
