@@ -38,6 +38,7 @@ Solved
 - LeetCode557-ReverseWordsinaStringIII.cpp (**Beats 96.46%**)
 - LeetCode561-ArrayPartitionI.cpp
 - LeetCode595-BigCountries.mysql
+- LeetCode682-BaseballGame.c (**Beats 100.00%**)
 - LeetCode707-DesignLinkedList.cpp
 - LeetCode724-FindPivotIndex.cpp
     - LeetCode724-FindPivotIndex.py
