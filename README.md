@@ -8,48 +8,48 @@ Ad
 Solved
 --------------------------------------------------------------------------------
 
-- `100%` LeetCode001-TwoSum `.cpp`
-- `M` LeetCode002-AddTwoNumbers `.cpp`
-- LeetCode007-ReverseInteger `.cpp`
-- LeetCode009-PalindromeNumber `.cpp`
-- LeetCode014-LongestCommonPrefix `.cpp`
-- `100%` `M` LeetCode019-RemoveNthNodeFromEndOfList `.cpp`
-- LeetCode021-MergeTwoSortedLists `.cpp`
-- `99%` LeetCode026-RemoveDuplicatesfromSortedArray `.cpp`
-- LeetCode027-RemoveElement `.cpp`
-- LeetCode028-ImplementstrStr `.cpp`
-- `M` LeetCode054-SpiralMatrix `.cpp`
-- LeetCode066-PlusOne `.cpp`
-- LeetCode067-AddBinary `.cpp`
-- `100%` LeetCode112-PathSum `.cpp`
-- LeetCode118-PascalsTriangle `.cpp`
-- LeetCode119-PascalsTriangleII `.cpp`
-- `100%` LeetCode141-LinkedListCycle `.cpp`
-- `M` LeetCode142-LinkedListCycleII `.cpp`
-- `M` LeetCode151-ReverseWordsinaString `.cpp`
-- LeetCode160-IntersectionOfTwoLinkedLists `.cpp`
-- LeetCode167-TwoSumII-InputArrayisSorted `.cpp`
-- LeetCode189-RotateArray `.cpp`
-- `M` LeetCode209-MinimumSizeSubarraySum `.cpp`
-- `100%` LeetCode283-MoveZeroes `.cpp`
-- LeetCode344-ReverseString `.cpp`
-- `100%` LeetCode412-FizzBuzz `.cs`
-- LeetCode485-MaxConsecutiveOnes `.cpp`
-- `M` LeetCode498-DiagonalTraverse `.cpp`
-- `97%` LeetCode507-PerfectNumber `.cs`
-- `96%` LeetCode557-ReverseWordsinaStringIII `.cpp`
-- LeetCode561-ArrayPartitionI `.cpp`
-- LeetCode595-BigCountries.mysql
-- `100%` LeetCode682-BaseballGame.c
-- LeetCode707-DesignLinkedList `.cpp`
-- LeetCode724-FindPivotIndex `.cpp` `.py`
-- `F65%` LeetCode728-SelfDividingNumber `.cpp`
-- LeetCode747-LargestNumberAtLeastTwiceofOthers `.cpp` `.py`
+- 001 `100%` - Two Sum `.cpp`
+- 002 `M` - Add Two Numbers `.cpp`
+- 007 - Reverse Integer `.cpp`
+- 009 - PalindromeNumber `.cpp`
+- 014 - LongestCommonPrefix `.cpp`
+- 019 `100%` `M` - RemoveNthNodeFromEndOfList `.cpp`
+- 021 - MergeTwoSortedLists `.cpp`
+- 026 `99%` - RemoveDuplicatesfromSortedArray `.cpp`
+- 027 - RemoveElement `.cpp`
+- 028 - ImplementstrStr `.cpp`
+- 054 `M` - SpiralMatrix `.cpp`
+- 066 - PlusOne `.cpp`
+- 067 - AddBinary `.cpp`
+- 112 `100%` - PathSum `.cpp`
+- 118 - PascalsTriangle `.cpp`
+- 119 - PascalsTriangleII `.cpp`
+- 141 `100%` - LinkedListCycle `.cpp`
+- 142 `M` - LinkedListCycleII `.cpp`
+- 151 `M` - ReverseWordsinaString `.cpp`
+- 160 - IntersectionOfTwoLinkedLists `.cpp`
+- 167 - TwoSumII-InputArrayisSorted `.cpp`
+- 189 - RotateArray `.cpp`
+- 209 `M` - MinimumSizeSubarraySum `.cpp`
+- 283 `100%` - MoveZeroes `.cpp`
+- 344 - ReverseString `.cpp`
+- 412 `100%` - FizzBuzz `.cs`
+- 485 - MaxConsecutiveOnes `.cpp`
+- 498 `M` - DiagonalTraverse `.cpp`
+- 507 `97%` - PerfectNumber `.cs`
+- 557 `96%` - ReverseWordsinaStringIII `.cpp`
+- 561 - ArrayPartitionI `.cpp`
+- 595 - BigCountries.mysql
+- 682 `100%` - BaseballGame.c
+- 707 - DesignLinkedList `.cpp`
+- 724 - FindPivotIndex `.cpp` `.py`
+- 728 `F65%` - SelfDividingNumber `.cpp`
+- 747 - LargestNumberAtLeastTwiceofOthers `.cpp` `.py`
 
 Attempted
 --------------------------------------------------------------------------------
 
-- LeetCode070-ClimbingStairs `.cpp` (Time exceeded) (Recursion->Loop)
+- 070 - ClimbingStairs `.cpp` (Time exceeded) (Recursion->Loop)
 
 --------------------------------------------------------------------------------
 
