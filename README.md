@@ -7,50 +7,49 @@ Ad147
 
 --------------------------------------------------------------------------------
 
-| #   | Title                             | Runtime       | Language     |
-| --- | --------------------------------- | ------------- | ------------ |
-| 001 | Two Sum                           | 100%          | `.cpp`       |
-| 002 | Add Two Numbers `M`               |               | `.cpp`       |
-| 007 | Reverse Integer                   |               | `.cpp`       |
-| 009 | PalindromeNumber                  |               | `.cpp`       |
-| 014 | LongestCommonPrefix               |               | `.cpp`       |
-| 019 | RemoveNthNodeFromEndOfList `M`    | 100%          | `.cpp`       |
-| 021 | MergeTwoSortedLists               |               | `.cpp`       |
-| 026 | RemoveDuplicatesfromSortedArray   | 99%           | `.cpp`       |
-| 027 | RemoveElement                     |               | `.cpp`       |
-| 028 | ImplementstrStr                   |               | `.cpp`       |
-| 054 | SpiralMatrix `M`                  |               | `.cpp`       |
-| 066 | PlusOne                           |               | `.cpp`       |
-| 067 | AddBinary                         |               | `.cpp`       |
-| 112 | PathSum                           | 100%          | `.cpp`       |
-| 118 | PascalsTriangle                   |               | `.cpp`       |
-| 119 | PascalsTriangleII                 |               | `.cpp`       |
-| 141 | LinkedListCycle                   | 100%          | `.cpp`       |
-| 142 | LinkedListCycleII `M`             |               | `.cpp`       |
-| 151 | ReverseWordsinaString `M`         |               | `.cpp`       |
-| 160 | IntersectionOfTwoLinkedLists      |               | `.cpp`       |
-| 167 | TwoSumII-InputArrayisSorted       |               | `.cpp`       |
-| 189 | RotateArray                       |               | `.cpp`       |
-| 209 | MinimumSizeSubarraySum `M`        |               | `.cpp`       |
-| 283 | MoveZeroes                        | 100%          | `.cpp`       |
-| 344 | ReverseString                     |               | `.cpp`       |
-| 412 | FizzBuzz                          | 100%          | `.cs`        |
-| 485 | MaxConsecutiveOnes                |               | `.cpp`       |
-| 498 | DiagonalTraverse `M`              |               | `.cpp`       |
-| 507 | PerfectNumber                     | 97%           | `.cs`        |
-| 557 | ReverseWordsinaStringIII          | 96%           | `.cpp`       |
-| 561 | ArrayPartitionI                   |               | `.cpp`       |
-| 595 | BigCountries                      |               | `.mysql`     |
-| 682 | BaseballGame                      | 100%          | `.c`         |
-| 707 | DesignLinkedList                  |               | `.cpp`       |
-| 724 | FindPivotIndex                    |               | `.cpp` `.py` |
-| 728 | SelfDividingNumber                | 65%F          | `.cpp`       |
-| 747 | LargestNumberAtLeastTwiceofOthers |               | `.cpp` `.py` |
-| 965 | Univalued Binary Tree             | to check      | `.cs`        |
+| #   | Title                                   | Runtime     | Language     |
+| --- | --------------------------------------- | ----------- | ------------ |
+| 001 | Two Sum                                 | 100%        | `.cpp`       |
+| 002 | Add Two Numbers `M`                     |             | `.cpp`       |
+| 007 | Reverse Integer                         |             | `.cpp`       |
+| 009 | Palindrome Number                       |             | `.cpp`       |
+| 014 | Longest Common Prefix                   |             | `.cpp`       |
+| 019 | Remove Nth Node from End of List `M`    | 100%        | `.cpp`       |
+| 021 | Merge Two Sorted Lists                  |             | `.cpp`       |
+| 026 | Remove Duplicates from Sorted Array     | 99%         | `.cpp`       |
+| 027 | Remove Element                          |             | `.cpp`       |
+| 028 | Implement strStr()                      |             | `.cpp`       |
+| 054 | Spiral Matrix `M`                       |             | `.cpp`       |
+| 066 | Plus One                                |             | `.cpp`       |
+| 067 | Add Binary                              |             | `.cpp`       |
+| 112 | Path Sum                                | 100%        | `.cpp`       |
+| 118 | Pascal's Triangle                       |             | `.cpp`       |
+| 119 | Pascal's Triangle II                    |             | `.cpp`       |
+| 141 | Linked List Cycle                       | 100%        | `.cpp`       |
+| 142 | Linked List Cycle II `M`                |             | `.cpp`       |
+| 151 | Reverse Words in a String `M`           |             | `.cpp`       |
+| 160 | Intersection of Two Linked Lists        |             | `.cpp`       |
+| 167 | Two Sum II - Input array is sorted      |             | `.cpp`       |
+| 189 | Rotate Array                            |             | `.cpp`       |
+| 209 | Minimum Size Subarray Sum `M`           |             | `.cpp`       |
+| 283 | Move Zeroes                             | 100%        | `.cpp`       |
+| 344 | Reverse String                          |             | `.cpp`       |
+| 412 | Fizz Buzz                               | 100%        | `.cs`        |
+| 485 | Max Consecutive Ones                    |             | `.cpp`       |
+| 498 | Diagonal Traverse `M`                   |             | `.cpp`       |
+| 507 | Perfect Number                          | 97%         | `.cs`        |
+| 557 | Reverse Words in a String III           | 96%         | `.cpp`       |
+| 561 | Array Partition I                       |             | `.cpp`       |
+| 595 | Big Countries                           |             | `.mysql`     |
+| 682 | Baseball Game                           | 100%        | `.c`         |
+| 707 | Design Linked List                      |             | `.cpp`       |
+| 724 | Find Pivot Index                        |             | `.cpp` `.py` |
+| 728 | Self Dividing Number                    | 65%F        | `.cpp`       |
+| 747 | Largest Number At Least Twice of Others |             | `.cpp` `.py` |
+| 965 | Univalued Binary Tree                   |             | `.cs`        |
 |     |
-|     |
-|     |
-| 070 | ClimbingStairs                    | Time exceeded | `.cpp`       |
+| 070 | Climbing Stairs                         | time exceed | `.cpp`       |
+| 855 | Exam Room `M`                           | time exceed | `.cs`        |
 
 --------------------------------------------------------------------------------
 
