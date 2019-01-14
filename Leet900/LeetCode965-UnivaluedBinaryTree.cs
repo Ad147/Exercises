@@ -52,9 +52,7 @@ public class TreeNode
 
 // solution ====================================================================
 
-// Runtime: 116 ms
-// LeetCode: We are in the progress of updating the graph distribution.
-// Please check the distribution again within weeks.
+// Runtime: 116 ms, faster than 39.13%
 
 public class Solution
 {
