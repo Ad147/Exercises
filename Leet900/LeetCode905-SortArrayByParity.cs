@@ -33,6 +33,10 @@ Note:
 
 // Runtime: 300 ms, faster than 96.52% of C# online submissions for Sort Array By Parity.
 
+// Quicksort
+// Time Complexity: O(N)
+// Space Complexity: O(1).
+
 public class Solution
 {
     public int[] SortArrayByParity(int[] A)
