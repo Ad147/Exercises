@@ -49,6 +49,7 @@ Ad147
 | 747 | Largest Number At Least Twice of Others |             | `.cpp` `.py` |
 | 929 | Unique Email Addresses                  | 98%         | `.cs`        |
 | 965 | Univalued Binary Tree                   |             | `.cs`        |
+| 977 | Squares of a Sorted Array               | 100%        | `.cs`        |
 |     |
 | 070 | Climbing Stairs                         | time exceed | `.cpp`       |
 | 855 | Exam Room `M`                           | time exceed | `.cs`        |
