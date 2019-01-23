@@ -49,6 +49,7 @@ Ad147
 | 728 | Self Dividing Number                    | 65%F        | `.cpp`       |
 | 747 | Largest Number At Least Twice of Others |             | `.cpp` `.py` |
 | 929 | Unique Email Addresses                  | 98%         | `.cs`        |
+| 961 | N-Repeated Element in Size 2N Array     | 100%        | `.cs`        |
 | 965 | Univalued Binary Tree                   |             | `.cs`        |
 | 977 | Squares of a Sorted Array               | 100%        | `.cs`        |
 |     |
