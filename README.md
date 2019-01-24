@@ -48,6 +48,7 @@ Ad147
 | 724 | Find Pivot Index                        |             | `.cpp` `.py` |
 | 728 | Self Dividing Number                    | 65%F        | `.cpp`       |
 | 747 | Largest Number At Least Twice of Others |             | `.cpp` `.py` |
+| 804 | Unique Morse Code Words                 | 78%F        | `.cs`        |
 | 929 | Unique Email Addresses                  | 98%         | `.cs`        |
 | 961 | N-Repeated Element in Size 2N Array     | 100%        | `.cs`        |
 | 965 | Univalued Binary Tree                   |             | `.cs`        |
