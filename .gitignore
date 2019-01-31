@@ -1,5 +1,5 @@
 
 *.exe
-LeetCode-Template.cpp
 .vscode/
 cs/
+Test.cpp
