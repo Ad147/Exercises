@@ -52,6 +52,7 @@ Ad147
 | 804 | Unique Morse Code Words                 |    78%F    | `.cs`        |
 | 832 | Flipping an Image                       |    68%F    | `.cs`        |
 | 929 | Unique Email Addresses                  |    98%     | `.cs`        |
+| 942 | DI String Match                         |    100%    | `.cs`        |
 | 961 | N-Repeated Element in Size 2N Array     |    100%    | `.cs`        |
 | 965 | Univalued Binary Tree                   |            | `.cs`        |
 | 977 | Squares of a Sorted Array               |    100%    | `.cs`        |
