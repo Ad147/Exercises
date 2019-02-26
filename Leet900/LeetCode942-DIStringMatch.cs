@@ -6,7 +6,7 @@
 
 942. DI String Match
 Easy
-Match
+Math
 
 Given a string S that **only** contains "I" (increase) or "D" (decrease), let N = S.length.
 
