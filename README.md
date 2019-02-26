@@ -20,6 +20,7 @@ Ad147
 | 027 | Remove Element                          |            | `.cpp`       |
 | 028 | Implement strStr()                      |            | `.cpp`       |
 | 054 | Spiral Matrix `M`                       |            | `.cpp`       |
+| 060 | Permutation Sequence `M`                |    100%    | `.cpp`       |
 | 066 | Plus One                                |            | `.cpp`       |
 | 067 | Add Binary                              |            | `.cpp`       |
 | 112 | Path Sum                                |    100%    | `.cpp`       |
