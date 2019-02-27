@@ -24,6 +24,7 @@ Ad147
 | 066 | Plus One                                |            | `.cpp`       |
 | 067 | Add Binary                              |            | `.cpp`       |
 | 112 | Path Sum                                |    100%    | `.cpp`       |
+| 144 | Binary Tree Preorder Traversal `M`      |    100%    | `.cpp`       |
 | 118 | Pascal's Triangle                       |            | `.cpp`       |
 | 119 | Pascal's Triangle II                    |            | `.cpp`       |
 | 141 | Linked List Cycle                       |    100%    | `.cpp`       |
