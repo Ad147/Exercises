@@ -23,6 +23,7 @@ Ad147
 | 060 | Permutation Sequence `M`                |    100%    | `.cpp`       |
 | 066 | Plus One                                |            | `.cpp`       |
 | 067 | Add Binary                              |            | `.cpp`       |
+| 094 | Binary Tree Inorder Traversal `M`       |    100%    | `.cpp`       |
 | 112 | Path Sum                                |    100%    | `.cpp`       |
 | 144 | Binary Tree Preorder Traversal `M`      |    100%    | `.cpp`       |
 | 118 | Pascal's Triangle                       |            | `.cpp`       |
