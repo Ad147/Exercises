@@ -26,6 +26,7 @@ Ad147
 | 094 | Binary Tree Inorder Traversal `M`       |    100%    | `.cpp`       |
 | 112 | Path Sum                                |    100%    | `.cpp`       |
 | 144 | Binary Tree Preorder Traversal `M`      |    100%    | `.cpp`       |
+| 145 | Binary Tree Postorder Traversal `H`     |    100%    | `.cpp`       |
 | 118 | Pascal's Triangle                       |            | `.cpp`       |
 | 119 | Pascal's Triangle II                    |            | `.cpp`       |
 | 141 | Linked List Cycle                       |    100%    | `.cpp`       |
