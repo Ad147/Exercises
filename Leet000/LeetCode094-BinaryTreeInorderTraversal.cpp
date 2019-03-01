@@ -27,8 +27,6 @@ Follow up: Recursive solution is trivial, could you do it iteratively?
 ----------------------------------------------------------------------------- */
 
 #include <vector>
-#include <set>
-using std::set;
 using std::vector;
 
 /**
