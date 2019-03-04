@@ -24,6 +24,8 @@ Ad147
 | 066 | Plus One                                |            | `.cpp`       |
 | 067 | Add Binary                              |            | `.cpp`       |
 | 094 | Binary Tree Inorder Traversal `M`       |    100%    | `.cpp`       |
+| 102 | Binary Tree Level Order Traversal `M`   |    100%    | `.cpp`       |
+| 104 | Maximum Depth of Binary Tree            |    100%    | `.cpp`       |
 | 112 | Path Sum                                |    100%    | `.cpp`       |
 | 144 | Binary Tree Preorder Traversal `M`      |    100%    | `.cpp`       |
 | 145 | Binary Tree Postorder Traversal `H`     |    100%    | `.cpp`       |
