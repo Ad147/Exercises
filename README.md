@@ -39,6 +39,7 @@ Ad147
 | 160 | Intersection of Two Linked Lists                               |            | `.cpp`       |
 | 167 | Two Sum II - Input array is sorted                             |            | `.cpp`       |
 | 189 | Rotate Array                                                   |            | `.cpp`       |
+| 203 | Remove Linked List Elements                                    |    100%    | `.cpp`       |
 | 206 | Reverse Linked List                                            |    100%    | `.cpp`       |
 | 209 | Minimum Size Subarray Sum `M`                                  |            | `.cpp`       |
 | 283 | Move Zeroes                                                    |    100%    | `.cpp`       |
