@@ -1,122 +1,145 @@
 // LeetCode707-DesignLinkedList.cpp
 // Ad
-// Design your implementation of the linked list.
-// You can choose to use the singly linked list or the doubly linked list.
-// Implement these functions in your linked list class:
-//  - get(index): get the value of the index-th node in the linked list. If the index is invalid, return -1.
-//  - addAtHead(val): add a node of value val before the first element of the linked list. After the insertion, the new node will be the first node of the linked list.
-//  - addAtTail(val): Append a node of value val to the last element of the linked list.
-//  - addAtIndex(index, val): add a node of value val before the index-th node in the linked list. If index equals to the length of linked list, the node will be appended to the end of linked list. If the index is greater than the length, the node will not be inserted.
-// deleteAtIndex(index): delete the index-th node in the linked list, if the index is valid.
+// Update: 19Mar13
+
+/* -----------------------------------------------------------------------------
+
+707. Design Linked List
+Easy
+Linked list, Design
+
+Design your implementation of the linked list.
+You can choose to use the singly linked list or the doubly linked list.
+A node in a singly linked list should have two attributes: val and next.
+val is the value of the current node, and next is a pointer/reference to the next node.
+If you want to use the doubly linked list, you will need one more attribute prev to indicate the previous node in the linked list.
+Assume all nodes in the linked list are 0-indexed.
+
+Implement these functions in your linked list class:
+
+- get(index) : Get the value of the index-th node in the linked list. If the index is invalid, return -1.
+- addAtHead(val) : Add a node of value val before the first element of the linked list. After the insertion, the new node will be the first node of the linked list.
+- addAtTail(val) : Append a node of value val to the last element of the linked list.
+- addAtIndex(index, val) : Add a node of value val before the index-th node in the linked list. If index equals to the length of linked list, the node will be appended to the end of linked list. If index is greater than the length, the node will not be inserted.
+- deleteAtIndex(index) : Delete the index-th node in the linked list, if the index is valid.
+
+Example:
+----------------------------------------
+MyLinkedList linkedList = new MyLinkedList();
+linkedList.addAtHead(1);
+linkedList.addAtTail(3);
+linkedList.addAtIndex(1, 2);  // linked list becomes 1->2->3
+linkedList.get(1);            // returns 2
+linkedList.deleteAtIndex(1);  // now the linked list is 1->3
+linkedList.get(1);            // returns 3
+----------------------------------------
+
+Note:
+- All values will be in the range of [1, 1000].
+- The number of operations will be in the range of [1, 1000].
+- Please do not use the built-in LinkedList library.
+
+----------------------------------------------------------------------------- */
 
 #include <iostream>
 
-// solution ====================================================================
+// Solution-0 ==================================================================
 
-// doubly linked list
-// 44 ms (22%)
-// -> 24 ms
+// Runtime: 52 ms, faster than 91.98% of C++ online submissions for Design Linked List.
+// Memory Usage: 19.7 MB, less than 23.75% of C++ online submissions for Design Linked List.
+// Doubly linked list.
 
 class MyLinkedList
 {
-  public:
-    // constructors
-    MyLinkedList();
-    // destructor
-    ~MyLinkedList();
-
-    // get the index-th value
-    int get(int index);
-    // add a node at head
-    void addAtHead(int val) { addAtIndex(0, val); }
-    // add a node at tail
-    void addAtTail(int val) { addAtIndex(siz, val); }
-    // add a node before the index-th node
-    void addAtIndex(int index, int val);
-    // delete the index-th node
-    void deleteAtIndex(int index);
-
   private:
     struct Node
     {
-        // constructor
-        Node(int v = 0, Node *n = nullptr, Node *p = nullptr)
-            : value{v}, next{n}, prev{p} {}
-
-        int value;
-        Node *next;
+        int val;
         Node *prev;
+        Node *next;
+
+        Node(int v = -1, Node *p = nullptr, Node *n = nullptr) : val{v}, prev{p}, next{n} {}
     };
 
-    int siz;
     Node *head;
     Node *tail;
+    int len;
+
+  public:
+    /** Initialize your data structure here. */
+    MyLinkedList() : len{0}
+    {
+        head = new Node;
+        tail = new Node;
+        head->next = tail;
+        tail->prev = head;
+    }
+
+    /** Get the value of the index-th node in the linked list. If the index is invalid, return -1. */
+    int get(int index)
+    {
+        if (isIndexInvalid(index))
+            return -1;
+
+        Node *p = findNodeAtIndex(index);
+        return p->val;
+    }
+
+    /** Add a node of value val before the first element of the linked list. After the insertion, the new node will be the first node of the linked list. */
+    void addAtHead(int val) { addAtIndex(0, val); }
+
+    /** Append a node of value val to the last element of the linked list. */
+    void addAtTail(int val)
+    {
+        tail->prev = tail->prev->next = new Node{val, tail->prev, tail};
+        ++len;
+    }
+
+    /** Add a node of value val before the index-th node in the linked list. If index equals to the length of linked list, the node will be appended to the end of linked list. If index is greater than the length, the node will not be inserted. */
+    void addAtIndex(int index, int val)
+    {
+        if (index == len)
+        {
+            addAtTail(val);
+            return;
+        }
+        if (isIndexInvalid(index))
+            return;
+
+        Node *p = findNodeAtIndex(index);
+        p->prev = p->prev->next = new Node{val, p->prev, p};
+        ++len;
+    }
+
+    /** Delete the index-th node in the linked list, if the index is valid. */
+    void deleteAtIndex(int index)
+    {
+        if (isIndexInvalid(index))
+            return;
+
+        Node *p = findNodeAtIndex(index);
+        p->prev->next = p->next;
+        p->next->prev = p->prev;
+        delete p;
+        --len;
+    }
+
+  private:
+    bool isIndexInvalid(int index) { return (index >= len || index < 0); }
+
+    Node *findNodeAtIndex(int index)
+    {
+        Node *p = head->next;
+        for (int i = 0; i < index; ++i)
+            p = p->next;
+
+        return p;
+    }
 };
 
-// member functions ------------------------------------------------------------
+// Solution-Alter ====================================================================
 
-MyLinkedList::MyLinkedList()
-{
-    siz = 0;
-    head = new Node;
-    tail = new Node;
-    head->next = tail;
-    tail->prev = head;
-}
-
-MyLinkedList::~MyLinkedList()
-{
-    while (siz != 0)
-        deleteAtIndex(0);
-    delete head;
-    delete tail;
-}
-
-int MyLinkedList::get(int index)
-{
-    if (index < 0 || index >= siz)
-        return -1;
-
-    Node *p = head->next;
-    for (int i = {0}; i != index; ++i)
-        p = p->next;
-
-    return p->value;
-}
-
-void MyLinkedList::addAtIndex(int index, int val)
-{
-    if (index < 0 || index > siz)
-        return;
-
-    Node *p = head->next;
-    for (int i = {0}; i != index; ++i)
-        p = p->next;
-
-    p->prev->next = new Node(val, p, p->prev);
-    p->prev = p->prev->next;
-    ++siz;
-}
-
-void MyLinkedList::deleteAtIndex(int index)
-{
-    if (index < 0 || index >= siz)
-        return;
-
-    Node *p = head->next;
-    for (int i = {0}; i != index; ++i)
-        p = p->next;
-
-    p->prev->next = p->next;
-    p->next->prev = p->prev;
-
-    delete p;
-    --siz;
-}
-
-// solution ====================================================================
-
-// singly linked list
+// Singly linked list.
 
 class MyLinkedList2
 {

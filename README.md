@@ -55,7 +55,7 @@ Ad147
 | 595 | Big Countries                                                  |            | `.mysql`     |
 | 657 | Robot Return to Origin                                         |    97%     | `.cs`        |
 | 682 | Baseball Game                                                  |    100%    | `.c`         |
-| 707 | Design Linked List                                             |            | `.cpp`       |
+| 707 | Design Linked List                                             |    92%     | `.cpp`       |
 | 709 | To Lower Case                                                  |    100%    | `.c`         |
 | 771 | Jewels and Stones                                              |    56%F    | `.cs`        |
 | 724 | Find Pivot Index                                               |            | `.cpp` `.py` |
