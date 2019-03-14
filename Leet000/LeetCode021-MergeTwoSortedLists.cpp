@@ -1,9 +1,23 @@
 // LeetCode021-MergeTwoSortedLists.cpp
 // Ad
-// Merge two sorted linked list and return it as a new list.
-// The new list should be made by splicing together the nodes of the first two lists.
+// Update: 19Mar14
 
-#include <iostream>
+/* -----------------------------------------------------------------------------
+
+21. Merge Two Sorted Lists
+Easy
+Linked List
+
+Merge two sorted linked lists and return it as a new list. 
+The new list should be made by splicing together the nodes of the first two lists.
+
+Example:
+----------------------------------------
+Input: 1->2->4, 1->3->4
+Output: 1->1->2->3->4->4
+----------------------------------------
+
+----------------------------------------------------------------------------- */
 
 // Definition for singly-linked list.
 struct ListNode
@@ -13,10 +27,11 @@ struct ListNode
     ListNode(int x) : val(x), next(NULL) {}
 };
 
-// solution ====================================================================
+// Solution ====================================================================
 
-// solution from yangliguang @LeetCode
-// runtime: 8 ms, faster than 89.04%
+// Runtime: 12 ms, faster than 99.28% of C++ online submissions for Merge Two Sorted Lists.
+// Memory Usage: 10.2 MB, less than 17.85% of C++ online submissions for Merge Two Sorted Lists.
+// This solution is from yangliguang@LeetCode
 
 class Solution
 {
@@ -38,55 +53,5 @@ class Solution
             l2->next = mergeTwoLists(l1, l2->next);
             return l2;
         }
-    }
-};
-
-// -----------------------------------------------------------------------------
-
-// runtime: 16 ms, faster than 12.06%
-
-class Solution1
-{
-  public:
-    ListNode *mergeTwoLists(ListNode *l1, ListNode *l2)
-    {
-        if (l1 == nullptr)
-            return l2;
-        if (l2 == nullptr)
-            return l1;
-
-        ListNode *head, *p, *p1 = l1, *p2 = l2;
-        if (p1->val < p2->val)
-        {
-            head = p = p1;
-            p1 = p1->next;
-        }
-        else
-        {
-            head = p = p2;
-            p2 = p2->next;
-        }
-
-        while (p1 != nullptr || p2 != nullptr)
-        {
-            if (p2 == nullptr)
-                link(p, p1);
-            else if (p1 == nullptr)
-                link(p, p2);
-            else if (p1->val < p2->val)
-                link(p, p1);
-            else
-                link(p, p2);
-        }
-
-        return head;
-    }
-
-  private:
-    void link(ListNode *&p, ListNode *&pn)
-    {
-        p->next = pn;
-        p = p->next;
-        pn = pn->next;
     }
 };

@@ -10,12 +10,12 @@ Ad147
 | #   | Title                                                          |  Runtime   | Language     |
 | --- | -------------------------------------------------------------- | :--------: | ------------ |
 | 001 | Two Sum                                                        |    100%    | `.cpp`       |
-| 002 | Add Two Numbers `M`                                            |            | `.cpp`       |
+| 002 | Add Two Numbers `M`                                            |    99%     | `.cpp`       |
 | 007 | Reverse Integer                                                |            | `.cpp`       |
 | 009 | Palindrome Number                                              |            | `.cpp`       |
 | 014 | Longest Common Prefix                                          |            | `.cpp`       |
 | 019 | Remove Nth Node from End of List `M`                           |    100%    | `.cpp`       |
-| 021 | Merge Two Sorted Lists                                         |            | `.cpp`       |
+| 021 | Merge Two Sorted Lists                                         |    99%     | `.cpp`       |
 | 026 | Remove Duplicates from Sorted Array                            |    99%     | `.cpp`       |
 | 027 | Remove Element                                                 |            | `.cpp`       |
 | 028 | Implement strStr()                                             |            | `.cpp`       |
