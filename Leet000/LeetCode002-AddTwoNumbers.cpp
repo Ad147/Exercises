@@ -1,24 +1,90 @@
 // LeetCode002-AddTwoNumbers.cpp
 // Ad
-// You are given two non-empty linked lists representing two non-negative integers.
-// The digits are stored in reverse order and each of their nodes contain a single digit.
-// Add the two numbers and return it as a linked list.
-// You may assume the two numbers do not contain any leading zero, except the number 0 itself.
+// Update: 19Mar14
+
+/* -----------------------------------------------------------------------------
+
+2. Add Two Numbers
+Medium
+Linked List, Math
+
+You are given two non-empty linked lists representing two non-negative integers. 
+The digits are stored in reverse order and each of their nodes contain a single digit. 
+Add the two numbers and return it as a linked list.
+
+You may assume the two numbers do not contain any leading zero, except the number 0 itself.
+
+Example:
+----------------------------------------
+Input: (2 -> 4 -> 3) + (5 -> 6 -> 4)
+Output: 7 -> 0 -> 8
+Explanation: 342 + 465 = 807.
+----------------------------------------
+
+----------------------------------------------------------------------------- */
 
 #include <iostream>
 
-// solution ====================================================================
-
-// 32 ms
-// --> to reach 28 ms (36%)
-
-// Definition for singly-linked list (LeetCode)
+// Definition for singly-linked list
 struct ListNode
 {
     int val;
     ListNode *next;
     ListNode(int x) : val(x), next(NULL) {}
 };
+
+// Solution-0 ==================================================================
+
+// Runtime: 36 ms, faster than 99.17% of C++ online submissions for Add Two Numbers.
+// Memory Usage: 18.8 MB, less than 90.86% of C++ online submissions for Add Two Numbers.
+// Algorithm: Recursion.
+// Time Complexity: O(max(m, n)).
+// Space Complexity: O(1).
+
+class Solution
+{
+  public:
+    ListNode *addTwoNumbers(ListNode *l1, ListNode *l2)
+    {
+        return addTwoNumbers(l1, l2, 0);
+    }
+
+  private:
+    ListNode *addTwoNumbers(ListNode *l1, ListNode *l2, int carry)
+    {
+        if (!l1 && !l2)
+        {
+            if (carry)
+                return new ListNode{carry};
+            else
+                return nullptr;
+        }
+
+        ListNode *ret = l1;
+        int l1Val = 0, l2Val = 0;
+        if (l1)
+        {
+            l1Val = l1->val;
+            l1 = l1->next;
+        }
+        if (l2)
+        {
+            ret = l2;
+            l2Val = l2->val;
+            l2 = l2->next;
+        }
+
+        ret->val = l1Val + l2Val + carry;
+        carry = ret->val / 10;
+        ret->val %= 10;
+
+        ret->next = addTwoNumbers(l1, l2, carry);
+
+        return ret;
+    }
+};
+
+// Old Solution ================================================================
 
 class Solution
 {
@@ -90,23 +156,3 @@ class Solution
         return ret;
     }
 };
-
-// test ========================================================================
-
-int main(int argc, char *argv[])
-{
-    Solution sol;
-    // 1st number: 923
-    ListNode *l1 = new ListNode(3);
-    l1->next = new ListNode(2);
-    l1->next->next = new ListNode(9);
-    // 2nd number: 89
-    ListNode *l2 = new ListNode(9);
-    l2->next = new ListNode(8);
-    // result: 1012
-    auto res = sol.addTwoNumbers(l1, l2);
-    std::cout << res->val << res->next->val << res->next->next->val << res->next->next->next->val << std::endl;
-
-    system("pause");
-    return 0;
-}
