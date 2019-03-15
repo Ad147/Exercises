@@ -47,6 +47,7 @@ Ad147
 | 328 | Odd Even Linked List `M`                                       |    100%    | `.cpp`       |
 | 344 | Reverse String                                                 |            | `.cpp`       |
 | 412 | Fizz Buzz                                                      |    100%    | `.cs`        |
+| 430 | Flatten a Multilevel Doubly Linked List                        |    100%    | `.cpp`       |
 | 485 | Max Consecutive Ones                                           |            | `.cpp`       |
 | 498 | Diagonal Traverse `M`                                          |            | `.cpp`       |
 | 507 | Perfect Number                                                 |    97%     | `.cs`        |
