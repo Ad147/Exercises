@@ -33,6 +33,7 @@ Ad147
 | 145 | Binary Tree Postorder Traversal `H`                            |    100%    | `.cpp`       |
 | 118 | Pascal's Triangle                                              |            | `.cpp`       |
 | 119 | Pascal's Triangle II                                           |            | `.cpp`       |
+| 138 | Copy List with Random Pointer                                  |    100%    | `.cpp`       |
 | 141 | Linked List Cycle                                              |    100%    | `.cpp`       |
 | 142 | Linked List Cycle II `M`                                       |            | `.cpp`       |
 | 151 | Reverse Words in a String `M`                                  |            | `.cpp`       |
