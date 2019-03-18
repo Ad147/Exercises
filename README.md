@@ -28,6 +28,7 @@ Ad147
 | 101 | Symmetric Tree                                             |   `Easy`   |  100%   |    `.cpp`    |
 | 102 | Binary Tree Level Order Traversal                          |  `Medium`  |  100%   |    `.cpp`    |
 | 104 | Maximum Depth of Binary Tree                               |   `Easy`   |  100%   |    `.cpp`    |
+| 105 | Construct Binary Tree from Preorder and Inorder Traversal  |  `Medium`  |   91%   |    `.cpp`    |
 | 106 | Construct Binary Tree from Inorder and Postorder Traversal |  `Medium`  |  100%   |    `.cpp`    |
 | 112 | Path Sum                                                   |   `Easy`   |  100%   |    `.cpp`    |
 | 118 | Pascal's Triangle                                          |   `Easy`   |         |    `.cpp`    |
