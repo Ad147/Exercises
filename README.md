@@ -31,6 +31,7 @@ Ad147
 | 105 | Construct Binary Tree from Preorder and Inorder Traversal  |  `Medium`  |   91%   |    `.cpp`    |
 | 106 | Construct Binary Tree from Inorder and Postorder Traversal |  `Medium`  |  100%   |    `.cpp`    |
 | 112 | Path Sum                                                   |   `Easy`   |  100%   |    `.cpp`    |
+| 116 | Populating Next Right Pointers in Each Node                |  `Medium`  |  82%F   |    `.cpp`    |
 | 118 | Pascal's Triangle                                          |   `Easy`   |         |    `.cpp`    |
 | 119 | Pascal's Triangle II                                       |   `Easy`   |         |    `.cpp`    |
 | 138 | Copy List with Random Pointer                              |  `Medium`  |  100%   |    `.cpp`    |
