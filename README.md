@@ -50,6 +50,7 @@ Ad147
 | 234 | Palindrome Linked List                                     |   `Easy`   |  100%   |    `.cpp`    |
 | 236 | Lowest Common Ancestor of a Binary Tree                    |  `Medium`  |  100%   |    `.cpp`    |
 | 283 | Move Zeroes                                                |   `Easy`   |  100%   |    `.cpp`    |
+| 297 | Serialize and Deserialize Binary Tree                      |   `Hard`   |   99%   |    `.cpp`    |
 | 328 | Odd Even Linked List                                       |  `Medium`  |  100%   |    `.cpp`    |
 | 344 | Reverse String                                             |   `Easy`   |         |    `.cpp`    |
 | 412 | Fizz Buzz                                                  |   `Easy`   |  100%   |    `.cs`     |
