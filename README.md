@@ -88,12 +88,13 @@ LeetCode
 PAT-Advanced
 --------------------------------------------------------------------------------
 
-| #    | Title               | Score | Runtime | Language |
-| ---- | ------------------- | :---: | :-----: | :------: |
-| 1001 | A+B Format          | 20/20 |  3 ms   |  `.cpp`  |
-| 1002 | A+B for Polynomials | 25/25 |  3 ms   |  `.cpp`  |
-| 1004 | Counting Leaves     | 30/30 |  3 ms   |  `.cpp`  |
-| 1005 | Spell It Right      | 20/20 |  4 ms   |  `.cpp`  |
+| #    | Title                | Score | Runtime | Language |
+| ---- | -------------------- | :---: | :-----: | :------: |
+| 1001 | A+B Format           | 20/20 |  3 ms   |  `.cpp`  |
+| 1002 | A+B for Polynomials  | 25/25 |  3 ms   |  `.cpp`  |
+| 1004 | Counting Leaves      | 30/30 |  3 ms   |  `.cpp`  |
+| 1005 | Spell It Right       | 20/20 |  4 ms   |  `.cpp`  |
+| 1006 | Sign In and Sign Out | 25/25 |  3 ms   |  `.cpp`  |
 
 
 --------------------------------------------------------------------------------
