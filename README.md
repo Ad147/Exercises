@@ -1,7 +1,7 @@
 LeetCode-Solutions
 
 
-Personal Solutions for LeetCode Problems
+Personal Solutions to LeetCode Problems
 ================================================================================
 
 Ad
