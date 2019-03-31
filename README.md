@@ -96,6 +96,7 @@ PAT-Advanced
 | 1005 | Spell It Right          | 20/20 |  4 ms   |  `.cpp`  |
 | 1006 | Sign In and Sign Out    | 25/25 |  3 ms   |  `.cpp`  |
 | 1007 | Maximum Subsequence Sum | 25/25 |  10 ms  |  `.cpp`  |
+| 1008 | Elevator                | 20/20 |  3 ms   |  `.cpp`  |
 
 
 --------------------------------------------------------------------------------
