@@ -61,6 +61,10 @@ pair<char, double> getBestBet();
 
 // Main ------------------------------------------------------------------------
 
+// Score: 20/20.
+// Runtime: 3 ms.
+// Spent time: 30 min.
+
 int main()
 {
     auto first = getBestBet();
