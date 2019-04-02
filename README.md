@@ -97,6 +97,7 @@ PAT-Advanced
 | 1006 | Sign In and Sign Out    | 25/25 |  3 ms   |  `.cpp`  |
 | 1007 | Maximum Subsequence Sum | 25/25 |  10 ms  |  `.cpp`  |
 | 1008 | Elevator                | 20/20 |  3 ms   |  `.cpp`  |
+| 1009 | Product of Polynomials  | 25/25 |  4 ms   |  `.cpp`  |
 | 1011 | World Cup Betting       | 20/20 |  3 ms   |  `.cpp`  |
 
 
