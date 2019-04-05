@@ -101,6 +101,7 @@ PAT-Advanced
 | 1011 | World Cup Betting       | 20/20 |  3 ms   |  `.cpp`  |
 | 1012 | The Best Rank           | 25/25 |  42 ms  |  `.cpp`  |
 | 1014 | Waiting in Line         | 30/30 |  4 ms   |  `.cpp`  |
+| 1015 | Reversible Primes       | 20/20 |  4 ms   |  `.cpp`  |
 
 
 --------------------------------------------------------------------------------
