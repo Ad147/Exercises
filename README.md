@@ -103,6 +103,7 @@ PAT-Advanced
 | 1014 | Waiting in Line         | 30/30 |  4 ms   |  `.cpp`  |
 | 1015 | Reversible Primes       | 20/20 |  4 ms   |  `.cpp`  |
 | 1016 | Phone Bills             | 25/25 |  4 ms   |  `.cpp`  |
+| 1017 | Queueing at Bank        | 25/25 |  22 ms  |  `.cpp`  |
 
 
 --------------------------------------------------------------------------------
