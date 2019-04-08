@@ -88,22 +88,23 @@ LeetCode
 PAT-Advanced
 --------------------------------------------------------------------------------
 
-| #    | Title                   | Score | Runtime | Language |
-| ---- | ----------------------- | :---: | :-----: | :------: |
-| 1001 | A+B Format              | 20/20 |  3 ms   |  `.cpp`  |
-| 1002 | A+B for Polynomials     | 25/25 |  3 ms   |  `.cpp`  |
-| 1004 | Counting Leaves         | 30/30 |  3 ms   |  `.cpp`  |
-| 1005 | Spell It Right          | 20/20 |  4 ms   |  `.cpp`  |
-| 1006 | Sign In and Sign Out    | 25/25 |  3 ms   |  `.cpp`  |
-| 1007 | Maximum Subsequence Sum | 25/25 |  10 ms  |  `.cpp`  |
-| 1008 | Elevator                | 20/20 |  3 ms   |  `.cpp`  |
-| 1009 | Product of Polynomials  | 25/25 |  4 ms   |  `.cpp`  |
-| 1011 | World Cup Betting       | 20/20 |  3 ms   |  `.cpp`  |
-| 1012 | The Best Rank           | 25/25 |  42 ms  |  `.cpp`  |
-| 1014 | Waiting in Line         | 30/30 |  4 ms   |  `.cpp`  |
-| 1015 | Reversible Primes       | 20/20 |  4 ms   |  `.cpp`  |
-| 1016 | Phone Bills             | 25/25 |  4 ms   |  `.cpp`  |
-| 1017 | Queueing at Bank        | 25/25 |  22 ms  |  `.cpp`  |
+| #    | Title                    | Score | Runtime | Language |
+| ---- | ------------------------ | :---: | :-----: | :------: |
+| 1001 | A+B Format               | 20/20 |  3 ms   |  `.cpp`  |
+| 1002 | A+B for Polynomials      | 25/25 |  3 ms   |  `.cpp`  |
+| 1004 | Counting Leaves          | 30/30 |  3 ms   |  `.cpp`  |
+| 1005 | Spell It Right           | 20/20 |  4 ms   |  `.cpp`  |
+| 1006 | Sign In and Sign Out     | 25/25 |  3 ms   |  `.cpp`  |
+| 1007 | Maximum Subsequence Sum  | 25/25 |  10 ms  |  `.cpp`  |
+| 1008 | Elevator                 | 20/20 |  3 ms   |  `.cpp`  |
+| 1009 | Product of Polynomials   | 25/25 |  4 ms   |  `.cpp`  |
+| 1011 | World Cup Betting        | 20/20 |  3 ms   |  `.cpp`  |
+| 1012 | The Best Rank            | 25/25 |  42 ms  |  `.cpp`  |
+| 1014 | Waiting in Line          | 30/30 |  4 ms   |  `.cpp`  |
+| 1015 | Reversible Primes        | 20/20 |  4 ms   |  `.cpp`  |
+| 1016 | Phone Bills              | 25/25 |  4 ms   |  `.cpp`  |
+| 1017 | Queueing at Bank         | 25/25 |  22 ms  |  `.cpp`  |
+| 1018 | *Public Bike Management* | 25/30 |  4 ms   |  `.cpp`  |
 
 
 --------------------------------------------------------------------------------
