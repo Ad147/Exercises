@@ -106,6 +106,7 @@ PAT-Advanced
 | 1017 | Queueing at Bank           | 25/25 |  22 ms  |  `.cpp`  |
 | 1018 | *Public Bike Management*   | 25/30 |  4 ms   |  `.cpp`  |
 | 1019 | General Palindromic Number | 20/20 |  3 ms   |  `.cpp`  |
+| 1020 | Tree Traversals            | 25/25 |  4 ms   |  `.cpp`  |
 
 
 --------------------------------------------------------------------------------
