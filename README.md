@@ -107,7 +107,8 @@ PAT-Advanced
 | 1018 | *Public Bike Management*   | 25/30 |  4 ms   |  `.cpp`  |
 | 1019 | General Palindromic Number | 20/20 |  3 ms   |  `.cpp`  |
 | 1020 | Tree Traversals            | 25/25 |  4 ms   |  `.cpp`  |
-| 1021 | Deepest Root               | 23/25 | 965 ms  |  `.cpp`  |
+| 1021 | *Deepest Root*             | 23/25 | 965 ms  |  `.cpp`  |
+| 1022 | *Digital Library*          | 22/30 | 158 ms  |  `.cpp`  |
 
 
 --------------------------------------------------------------------------------
