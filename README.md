@@ -109,6 +109,7 @@ PAT-Advanced
 | 1020 | Tree Traversals            | 25/25 |  4 ms   |  `.cpp`  |
 | 1021 | *Deepest Root*             | 23/25 | 965 ms  |  `.cpp`  |
 | 1022 | *Digital Library*          | 22/30 | 158 ms  |  `.cpp`  |
+| 1023 | *Have Fun with Numbers*    | 11/20 |  3 ms   |  `.cpp`  |
 
 
 --------------------------------------------------------------------------------
