@@ -111,6 +111,7 @@ PAT-Advanced
 | 1022 | *Digital Library*                     | 22/30 | 158 ms  |  `.cpp`  |
 | 1023 | *Have Fun with Numbers (big integer)* | 11/20 |  3 ms   |  `.cpp`  |
 | 1024 | *Palindromic Number (big integer)*    | 18/25 |  4 ms   |  `.cpp`  |
+| 1025 | *PAT Ranking*                         | 22/25 | 136 ms  |  `.cpp`  |
 
 
 --------------------------------------------------------------------------------
