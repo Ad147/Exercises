@@ -112,6 +112,7 @@ PAT-Advanced
 | 1023 | *Have Fun with Numbers (big integer)* | 11/20 |  3 ms   |  `.cpp`  |
 | 1024 | *Palindromic Number (big integer)*    | 18/25 |  4 ms   |  `.cpp`  |
 | 1025 | *PAT Ranking*                         | 22/25 | 136 ms  |  `.cpp`  |
+| 1027 | Colors in Mars                        | 20/20 |  3 ms   |  `.cpp`  |
 
 
 --------------------------------------------------------------------------------
