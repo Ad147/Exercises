@@ -2,6 +2,10 @@
 // Ad
 // Init: 19Apr05
 
+// Score: 20/20.
+// Spent time: 60 min.
+// Runtime: 4 ms.
+
 /* -----------------------------------------------------------------------------
 
 1015 Reversible Primes （20 分)
@@ -47,10 +51,6 @@ bool isPrime(int num);
 int getReverse(int num, int radix);
 
 // Main ------------------------------------------------------------------------
-
-// Score: 20/20.
-// Runtime: 4 ms.
-// Spent time: 60 min.
 
 int main()
 {

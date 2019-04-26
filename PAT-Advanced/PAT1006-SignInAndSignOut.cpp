@@ -2,6 +2,10 @@
 // Ad
 // Init: 19Mar29
 
+// Score: 25/25 (One-Shot Kill).
+// Spent time: 40 min.
+// Runtime: 3 ms.
+
 /* -----------------------------------------------------------------------------
 
 1006 Sign In and Sign Out （25 分)
@@ -76,10 +80,6 @@ class Time
 };
 
 // Main ------------------------------------------------------------------------
-
-// Score: 25/25 (OneShot).
-// Runtime: 3 ms.
-// Spent time: 40 min.
 
 int main()
 {

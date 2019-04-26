@@ -2,6 +2,10 @@
 // Ad
 // Init: 19Mar25
 
+// Score: 20/20.
+// Spent time: 50 min.
+// Runtime: 3 ms.
+
 /* -----------------------------------------------------------------------------
 
 1001 A+B Format （20 分)
@@ -37,10 +41,6 @@ void printSum(int i, int j);
 string format(int num);
 
 // Main ------------------------------------------------------------------------
-
-// Score: 20/20.
-// Runtime: 3 ms.
-// Spent time: 50 min.
 
 int main()
 {

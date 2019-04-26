@@ -2,6 +2,10 @@
 // Ad
 // Init: 19Mar31
 
+// Score: 20/20.
+// Spent time: 60 min (I did not notice that the first input is the number of floors, and paid (TOT)).
+// Runtime: 3 ms.
+
 /* -----------------------------------------------------------------------------
 
 1008 Elevator （20 分)
@@ -41,10 +45,6 @@ using namespace std;
 int getTotalTime();
 
 // Main ------------------------------------------------------------------------
-
-// Score: 20/20.
-// Runtime: 3 ms.
-// Spent time: 60 min (I did not notice that the first input is the number of floors, and paid (Q_Q)).
 
 int main()
 {

@@ -2,6 +2,10 @@
 // Ad
 // Init: 19Mar30
 
+// Score: 25/25.
+// Spent time: 50 min.
+// Runtime: 10 ms.
+
 /* -----------------------------------------------------------------------------
 
 1007 Maximum Subsequence Sum （25 分)
@@ -44,10 +48,6 @@ using namespace std;
 string getMaxSum();
 
 // Main ------------------------------------------------------------------------
-
-// Score: 25/25.
-// Runtime: 10 ms.
-// Spent time: 50 min.
 
 int main()
 {

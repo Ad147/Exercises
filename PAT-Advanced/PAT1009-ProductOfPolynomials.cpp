@@ -2,6 +2,10 @@
 // Ad
 // Init: 19Apr02
 
+// Score: 25/25.
+// Spent time: 45 min.
+// Runtime: 4 ms.
+
 /* -----------------------------------------------------------------------------
 
 1009 Product of Polynomials （25 分)
@@ -45,10 +49,6 @@ map<int, double> polyProduct(const map<int, double> &poly1, const map<int, doubl
 void printPoly(const map<int, double> &poly);
 
 // Main ------------------------------------------------------------------------
-
-// Score: 25/25.
-// Runtime: 4 ms.
-// Spent time: 45 min.
 
 int main()
 {

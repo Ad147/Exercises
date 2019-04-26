@@ -2,6 +2,10 @@
 // Ad
 // Init: 19Apr01
 
+// Score: 20/20 (One-Shot Kill).
+// Spent time: 30 min.
+// Runtime: 3 ms.
+
 /* -----------------------------------------------------------------------------
 
 1011 World Cup Betting （20 分)
@@ -60,10 +64,6 @@ const vector<char> results{'W', 'T', 'L'};
 pair<char, double> getBestBet();
 
 // Main ------------------------------------------------------------------------
-
-// Score: 20/20.
-// Runtime: 3 ms.
-// Spent time: 30 min.
 
 int main()
 {

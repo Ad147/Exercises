@@ -2,6 +2,10 @@
 // Ad
 // Init: 19Mar26
 
+// Score: 25/25.
+// Spent time: 40 min.
+// Runtime: 3 ms.
+
 /* -----------------------------------------------------------------------------
 
 1002 A+B for Polynomials （25 分)
@@ -43,10 +47,6 @@ void buildPoly(map<int, double> *poly);
 void print(const map<int, double> &poly);
 
 // Main ------------------------------------------------------------------------
-
-// Score: 25/25.
-// Runtime: 3 ms.
-// Spent time: 40 min.
 
 int main()
 {
