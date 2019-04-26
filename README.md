@@ -88,32 +88,33 @@ LeetCode
 PAT-Advanced
 --------------------------------------------------------------------------------
 
-| #    | Title                                 | Score | Runtime | Language |
-| ---- | ------------------------------------- | :---: | :-----: | :------: |
-| 1001 | A+B Format                            | 20/20 |  3 ms   |  `.cpp`  |
-| 1002 | A+B for Polynomials                   | 25/25 |  3 ms   |  `.cpp`  |
-| 1004 | Counting Leaves                       | 30/30 |  3 ms   |  `.cpp`  |
-| 1005 | Spell It Right                        | 20/20 |  4 ms   |  `.cpp`  |
-| 1006 | Sign In and Sign Out                  | 25/25 |  3 ms   |  `.cpp`  |
-| 1007 | Maximum Subsequence Sum               | 25/25 |  10 ms  |  `.cpp`  |
-| 1008 | Elevator                              | 20/20 |  3 ms   |  `.cpp`  |
-| 1009 | Product of Polynomials                | 25/25 |  4 ms   |  `.cpp`  |
-| 1011 | World Cup Betting                     | 20/20 |  3 ms   |  `.cpp`  |
-| 1012 | The Best Rank                         | 25/25 |  42 ms  |  `.cpp`  |
-| 1014 | Waiting in Line                       | 30/30 |  4 ms   |  `.cpp`  |
-| 1015 | Reversible Primes                     | 20/20 |  4 ms   |  `.cpp`  |
-| 1016 | Phone Bills                           | 25/25 |  4 ms   |  `.cpp`  |
-| 1017 | Queueing at Bank                      | 25/25 |  22 ms  |  `.cpp`  |
-| 1018 | *Public Bike Management*              | 25/30 |  4 ms   |  `.cpp`  |
-| 1019 | General Palindromic Number            | 20/20 |  3 ms   |  `.cpp`  |
-| 1020 | Tree Traversals                       | 25/25 |  4 ms   |  `.cpp`  |
-| 1021 | *Deepest Root*                        | 23/25 | 965 ms  |  `.cpp`  |
-| 1022 | *Digital Library*                     | 22/30 | 158 ms  |  `.cpp`  |
-| 1023 | *Have Fun with Numbers (big integer)* | 11/20 |  3 ms   |  `.cpp`  |
-| 1024 | *Palindromic Number (big integer)*    | 18/25 |  4 ms   |  `.cpp`  |
-| 1025 | *PAT Ranking*                         | 22/25 | 136 ms  |  `.cpp`  |
-| 1026 | *Table Tennis*                        | 0/30  |    -    |  `.cpp`  |
-| 1027 | Colors in Mars                        | 20/20 |  3 ms   |  `.cpp`  |
+| #    | Title                                 |  Score   | Time  | Runtime | Language |
+| ---- | ------------------------------------- | :------: | :---: | :-----: | :------: |
+| 1001 | A+B Format                            |  20/20   |  50   |  3 ms   |  `.cpp`  |
+| 1002 | A+B for Polynomials                   |  25/25   |  40   |  3 ms   |  `.cpp`  |
+| 1004 | Counting Leaves                       |  30/30   |  135  |  3 ms   |  `.cpp`  |
+| 1005 | Spell It Right                        |  20/20   |  70   |  4 ms   |  `.cpp`  |
+| 1006 | Sign In and Sign Out                  | `OSK`/25 |  40   |  3 ms   |  `.cpp`  |
+| 1007 | Maximum Subsequence Sum               |  25/25   |  50   |  10 ms  |  `.cpp`  |
+| 1008 | Elevator                              |  20/20   |  60   |  3 ms   |  `.cpp`  |
+| 1009 | Product of Polynomials                |  25/25   |  45   |  4 ms   |  `.cpp`  |
+| 1011 | World Cup Betting                     | `OSK`/20 |  30   |  3 ms   |  `.cpp`  |
+| 1012 | The Best Rank                         |  25/25   |  120  |  42 ms  |  `.cpp`  |
+| 1014 | Waiting in Line                       |  30/30   |  170  |  4 ms   |  `.cpp`  |
+| 1015 | Reversible Primes                     |  20/20   |  60   |  4 ms   |  `.cpp`  |
+| 1016 | Phone Bills                           |  25/25   |  240  |  4 ms   |  `.cpp`  |
+| 1017 | Queueing at Bank                      |  25/25   |  150  |  22 ms  |  `.cpp`  |
+| 1018 | *Public Bike Management*              |  25/30   |  320  |  4 ms   |  `.cpp`  |
+| 1019 | General Palindromic Number            | `OSK`/20 |  25   |  3 ms   |  `.cpp`  |
+| 1020 | Tree Traversals                       | `OSK`/25 |  35   |  4 ms   |  `.cpp`  |
+| 1021 | *Deepest Root*                        |  23/25   |  145  | 965 ms  |  `.cpp`  |
+| 1022 | *Digital Library*                     |  22/30   |  120  | 158 ms  |  `.cpp`  |
+| 1023 | *Have Fun with Numbers (big integer)* |  11/20   |  30   |  3 ms   |  `.cpp`  |
+| 1024 | *Palindromic Number (big integer)*    |  18/25   |  30   |  4 ms   |  `.cpp`  |
+| 1025 | *PAT Ranking*                         |  22/25   |  45   | 136 ms  |  `.cpp`  |
+| 1026 | *Table Tennis*                        |   0/30   |  120  |    -    |  `.cpp`  |
+| 1027 | Colors in Mars                        |  20/20   |  13   |  3 ms   |  `.cpp`  |
+| 1028 | List Sorting                          | `OSK`/25 |  28   | 302 ms  |  `.cpp`  |
 
 
 --------------------------------------------------------------------------------
