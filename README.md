@@ -116,8 +116,9 @@ PAT-Advanced
 | 1027 | Colors in Mars                        |  20/20   |  13   |  3 ms   |  `.cpp`  |
 | 1028 | List Sorting                          | `OSK`/25 |  28   | 302 ms  |  `.cpp`  |
 | 1029 | Median                                |  16/25   |  20   |  2 ms   |  `.cpp`  |
-| 1030 | Travel Plan                           |  unfin   |  60   |    -    |  `.cpp`  |
+| 1030 | *Travel Plan*                         |  UNDONE  |  60   |    -    |  `.cpp`  |
 | 1031 | Hello World for U                     |  20/20   |  17   |  4 ms   |  `.cpp`  |
+| 1032 | *Sharing*                             |  23/25   |  28   | 185 ms  |  `.cpp`  |
 
 
 --------------------------------------------------------------------------------
