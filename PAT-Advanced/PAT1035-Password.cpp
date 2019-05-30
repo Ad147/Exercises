@@ -2,7 +2,7 @@
 // Ad
 // Init: 19May29
 
-// Score: 20/20
+// Score: 20/20 (One-Shot Kill)
 // Spent time: 25 min
 // Runtime: 5 ms
 
