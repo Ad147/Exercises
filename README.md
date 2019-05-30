@@ -120,7 +120,8 @@ PAT-Advanced
 | 1031 | Hello World for U                     |  20/20   |  17   |  4 ms   |  `.cpp`  |
 | 1032 | *Sharing*                             |  23/25   |  28   | 185 ms  |  `.cpp`  |
 | 1033 | *To Fill or Not to Fill*              |  UNDONE  |  60   |    -    |  `.cpp`  |
-| 1035 | Password                              |  20/20   |  25   |  5 ms   |  `.cpp`  |
+| 1035 | Password                              | `OSK`/20 |  25   |  5 ms   |  `.cpp`  |
+| 1036 | Boys vs Girls                         | `OSK`/25 |  38   |  3 ms   |  `.cpp`  |
 
 
 --------------------------------------------------------------------------------
