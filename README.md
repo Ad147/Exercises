@@ -122,7 +122,8 @@ PAT-Advanced
 | 1033 | *To Fill or Not to Fill*              |  UNDONE  |  60   |    -    |  `.cpp`  |
 | 1035 | Password                              | `OSK`/20 |  25   |  5 ms   |  `.cpp`  |
 | 1036 | Boys vs Girls                         | `OSK`/25 |  38   |  3 ms   |  `.cpp`  |
-| 1037 | Magic Coupon                          |  22/25   |  23   |  49 ms  |  `.cpp`  |
+| 1037 | *Magic Coupon*                        |  22/25   |  23   |  49 ms  |  `.cpp`  |
+| 1041 | Be Unique                             |  20/20   |  39   |  65 ms  |  `.cpp`  |
 
 
 --------------------------------------------------------------------------------
