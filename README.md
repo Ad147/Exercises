@@ -126,6 +126,7 @@ PAT-Advanced
 | 1039 | Course List for Student               | `OSK`/25 |  25   | 431 ms  |  `.cpp`  |
 | 1040 | Longest Symmetric String              |   8/25   |  45   |  4 ms   |  `.cpp`  |
 | 1041 | Be Unique                             |  20/20   |  39   |  65 ms  |  `.cpp`  |
+| 1042 | Shuffling Machine                     |  20/20   |  58   |  3 ms   |  `.cpp`  |
 
 
 --------------------------------------------------------------------------------
