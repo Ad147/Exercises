@@ -1,11 +1,9 @@
-LeetCode-Solutions
+Exercises
 
-
-Personal Solutions to LeetCode Problems
+OJ Exercises
 ================================================================================
 
 Ad
-
 
 LeetCode
 --------------------------------------------------------------------------------
@@ -84,7 +82,6 @@ LeetCode
 | 070 | Climbing Stairs                                            |   `Easy`   |       | Exceed  |    `.cpp`    |
 | 855 | Exam Room                                                  |  `Medium`  |       | Exceed  |    `.cs`     |
 
-
 PAT-Advanced
 --------------------------------------------------------------------------------
 
@@ -130,8 +127,6 @@ PAT-Advanced
 | 1043 | *Is It a Binary Search Tree*          |  11/25   |  60'  |  4 ms   |  `.cpp`  |
 | 1044 | Shopping in Mars                      |  25/25   |  53'  | 252 ms  |  `.cpp`  |
 
-
 --------------------------------------------------------------------------------
-
 
 EOF
