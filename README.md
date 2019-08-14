@@ -126,6 +126,7 @@ PAT-Advanced
 | 1042 | Shuffling Machine                     |  20/20   |  58'  |  3 ms   |  `.cpp`  |
 | 1043 | *Is It a Binary Search Tree*          |  11/25   |  60'  |  4 ms   |  `.cpp`  |
 | 1044 | Shopping in Mars                      |  25/25   |  53'  | 252 ms  |  `.cpp`  |
+| 1046 | *Shortest Distance*                   |  17/20   |  50'  |  3 ms   |  `.cpp`  |
 
 --------------------------------------------------------------------------------
 
