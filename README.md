@@ -127,6 +127,7 @@ PAT-Advanced
 | 1043 | *Is It a Binary Search Tree*          |  11/25   |  60'  |  4 ms   |  `.cpp`  |
 | 1044 | Shopping in Mars                      |  25/25   |  53'  | 252 ms  |  `.cpp`  |
 | 1046 | *Shortest Distance*                   |  17/20   |  50'  |  3 ms   |  `.cpp`  |
+| 1047 | *Student List for Course*             |  21/25   |  12'  |  3 ms   |  `.cpp`  |
 
 --------------------------------------------------------------------------------
 
