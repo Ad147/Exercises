@@ -129,6 +129,7 @@ PAT-Advanced
 | 1046 | *Shortest Distance*                   |  17/20   |  50'  |  3 ms   |  `.cpp`  |
 | 1047 | *Student List for Course*             |  21/25   |  12'  |  3 ms   |  `.cpp`  |
 | 1048 | Find Coins                            |  25/25   |  60'  |  40 ms  |  `.cpp`  |
+| 1049 | Counting Ones                         |  30/30   |  63'  |  3 ms   |  `.cpp`  |
 
 --------------------------------------------------------------------------------
 
