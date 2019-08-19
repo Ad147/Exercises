@@ -130,6 +130,7 @@ PAT-Advanced
 | 1047 | *Student List for Course*             |  21/25   |  12'  |  3 ms   |  `.cpp`  |
 | 1048 | Find Coins                            |  25/25   |  60'  |  40 ms  |  `.cpp`  |
 | 1049 | Counting Ones                         |  30/30   |  63'  |  3 ms   |  `.cpp`  |
+| 1050 | String Subtraction                    |  20/20   |  12'  |  5 ms   |  `.cpp`  |
 
 --------------------------------------------------------------------------------
 
