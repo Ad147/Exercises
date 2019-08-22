@@ -133,6 +133,7 @@ PAT-Advanced
 | 1050 | String Subtraction                    |  20/20   |  12'  |  5 ms   |  `.cpp`  |
 | 1051 | Pop Sequence                          |  25/25   |  58'  |  5 ms   |  `.cpp`  |
 | 1052 | Linked List Sorting                   |  25/25   |  49'  | 307 ms  |  `.cpp`  |
+| 1053 | Path of Equal Weight                  | `OSK`/30 |  54'  |  3 ms   |  `.cpp`  |
 
 --------------------------------------------------------------------------------
 
