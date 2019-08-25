@@ -136,6 +136,7 @@ PAT-Advanced
 | 1053 | Path of Equal Weight                  | `OSK`/30 |  54'  |  3 ms   |  `.cpp`  |
 | 1054 | The Dominant Color                    |  20/20   |  20'  | 158 ms  |  `.cpp`  |
 | 1055 | *The World's Richest*                 |  22/25   |  60'  | 182 ms  |  `.cpp`  |
+| 1056 | Mice and Rice                         |  25/25   |  55'  |  5 ms   |  `.cpp`  |
 
 --------------------------------------------------------------------------------
 
