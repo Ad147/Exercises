@@ -140,9 +140,10 @@ PAT-Advanced
 | 1057 | *Stack*                               |  17/30   |  60'  |  4 ms   |  `.cpp`  |
 | 1058 | A+B in Hogwarts                       | `OSK`/20 |  15'  |  2 ms   |  `.cpp`  |
 | 1059 | Prime Factors                         | `OSK`/25 |  21'  |  4 ms   |  `.cpp`  |
-| 1060 | Are They Equal                        |  19/25   |  60'  |  5 ms   |  `.cpp`  |
-| 1061 | Dating                                |  18/20   |  45'  |  4 ms   |  `.cpp`  |
+| 1060 | *Are They Equal*                      |  19/25   |  60'  |  5 ms   |  `.cpp`  |
+| 1061 | *Dating*                              |  18/20   |  45'  |  4 ms   |  `.cpp`  |
 | 1062 | Talent and Virtue                     | `OSK`/25 |  30'  | 293 ms  |  `.cpp`  |
+| 1063 | Set Similarity                        | `OSK`/25 |  33'  | 180 ms  |  `.cpp`  |
 
 --------------------------------------------------------------------------------
 
