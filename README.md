@@ -144,6 +144,7 @@ PAT-Advanced
 | 1061 | *Dating*                              |  18/20   |  45'  |  4 ms   |  `.cpp`  |
 | 1062 | Talent and Virtue                     | `OSK`/25 |  30'  | 293 ms  |  `.cpp`  |
 | 1063 | Set Similarity                        | `OSK`/25 |  33'  | 180 ms  |  `.cpp`  |
+| 1064 | *Complete Binary Search Tree*         |  UNDONE  |  60'  |    -    |  `.cpp`  |
 
 --------------------------------------------------------------------------------
 
