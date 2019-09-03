@@ -145,6 +145,7 @@ PAT-Advanced
 | 1062 | Talent and Virtue                     | `OSK`/25 |  30'  | 293 ms  |  `.cpp`  |
 | 1063 | Set Similarity                        | `OSK`/25 |  33'  | 180 ms  |  `.cpp`  |
 | 1064 | *Complete Binary Search Tree*         |  UNDONE  |  60'  |    -    |  `.cpp`  |
+| 1065 | *A + B and C (64bit)*                 |  16/20   |  45'  |  3 ms   |  `.cpp`  |
 
 --------------------------------------------------------------------------------
 
