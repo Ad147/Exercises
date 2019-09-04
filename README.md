@@ -146,6 +146,7 @@ PAT-Advanced
 | 1063 | Set Similarity                        | `OSK`/25 |  33'  | 180 ms  |  `.cpp`  |
 | 1064 | *Complete Binary Search Tree*         |  UNDONE  |  60'  |    -    |  `.cpp`  |
 | 1065 | *A + B and C (64bit)*                 |  16/20   |  45'  |  3 ms   |  `.cpp`  |
+| 1066 | *Root of AVL Tree*                    |  21/25   |  60'  |  8 ms   |  `.cpp`  |
 
 --------------------------------------------------------------------------------
 
