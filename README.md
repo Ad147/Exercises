@@ -147,6 +147,8 @@ PAT-Advanced
 | 1064 | *Complete Binary Search Tree*         |  UNDONE  |  60'  |    -    |  `.cpp`  |
 | 1065 | *A + B and C (64bit)*                 |  16/20   |  45'  |  3 ms   |  `.cpp`  |
 | 1066 | *Root of AVL Tree*                    |  21/25   |  60'  |  8 ms   |  `.cpp`  |
+| 1067 | *Sort with Swap(0, i)*                |  19/25   |  60'  |  3 ms   |  `.cpp`  |
+
 
 --------------------------------------------------------------------------------
 
