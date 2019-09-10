@@ -1,6 +1,6 @@
 // LC704-BinarySearch.cpp
 // Ad
-// 19Sep09
+// Init: 19Sep09
 
 // Difficulty: Easy
 // Status: Accepted
