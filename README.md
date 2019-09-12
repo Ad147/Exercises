@@ -18,6 +18,7 @@ LeetCode
 | 026 | Remove Duplicates from Sorted Array `E`                        |        |       |   99%   |        |   `cpp`    |
 | 027 | Remove Element `E`                                             |        |       |         |        |   `cpp`    |
 | 028 | Implement strStr() `E`                                         |        |       |         |        |   `cpp`    |
+| 033 | Search in Rotated Sorted Array `M`                             | 16/196 |  60+  |    -    |   -    |   `cpp`    |
 | 054 | Spiral Matrix `M`                                              | `OSK`  |       |         |        |   `cpp`    |
 | 060 | Permutation Sequence `M`                                       | `OSK`  |       |  100%   |        |   `cpp`    |
 | 061 | Rotate List `M`                                                | `OSK`  |       |   99%   |        |   `cpp`    |
@@ -53,6 +54,7 @@ LeetCode
 | 297 | Serialize and Deserialize Binary Tree `H`                      |        |       |   99%   |        |   `cpp`    |
 | 328 | Odd Even Linked List `M`                                       | `OSK`  |       |  100%   |        |   `cpp`    |
 | 344 | Reverse String `E`                                             |        |       |         |        |   `cpp`    |
+| 374 | Guess Number Higher or Lower `E`                               | `OSK`  |  10'  |  100%   |  61%   |   `cpp`    |
 | 412 | Fizz Buzz `E`                                                  |        |       |  100%   |        |    `cs`    |
 | 430 | Flatten a Multilevel Doubly Linked List `M`                    | `OSK`  |       |  100%   |        |   `cpp`    |
 | 485 | Max Consecutive Ones `E`                                       |        |       |         |        |   `cpp`    |
