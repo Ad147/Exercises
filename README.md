@@ -50,6 +50,7 @@ LeetCode
 | 209 | Minimum Size Subarray Sum `M`                                  | `OSK`  |       |         |        |   `cpp`    |
 | 234 | Palindrome Linked List `E`                                     |        |       |  100%   |        |   `cpp`    |
 | 236 | Lowest Common Ancestor of a Binary Tree `M`                    |        |       |  100%   |        |   `cpp`    |
+| 278 | First Bad Version `E`                                          |  Acc   |  31'  |  100%   |  27%   |   `cpp`    |
 | 283 | Move Zeroes `E`                                                |        |       |  100%   |        |   `cpp`    |
 | 297 | Serialize and Deserialize Binary Tree `H`                      |        |       |   99%   |        |   `cpp`    |
 | 328 | Odd Even Linked List `M`                                       | `OSK`  |       |  100%   |        |   `cpp`    |
