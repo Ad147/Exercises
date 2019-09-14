@@ -43,6 +43,7 @@ LeetCode
 | 145 | Binary Tree Postorder Traversal `H`                            | `OSK`  |       |  100%   |        |   `cpp`    |
 | 151 | Reverse Words in a String `M`                                  | `OSK`  |       |         |        |   `cpp`    |
 | 160 | Intersection of Two Linked Lists `E`                           |        |       |         |        |   `cpp`    |
+| 162 | Find Peak Element `M`                                          | `OSK`  |  19'  |  100%   |  93%   |   `cpp`    |
 | 167 | Two Sum II - Input array is sorted `E`                         |        |       |         |        |   `cpp`    |
 | 189 | Rotate Array `E`                                               |        |       |         |        |   `cpp`    |
 | 203 | Remove Linked List Elements `E`                                |        |       |  100%   |        |   `cpp`    |
