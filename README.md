@@ -42,6 +42,7 @@ LeetCode
 | 144 | Binary Tree Preorder Traversal `M`                             | `OSK`  |       |  100%   |        |   `cpp`    |
 | 145 | Binary Tree Postorder Traversal `H`                            | `OSK`  |       |  100%   |        |   `cpp`    |
 | 151 | Reverse Words in a String `M`                                  | `OSK`  |       |         |        |   `cpp`    |
+| 153 | Find Minimum in Rotated Sorted Array `M`                       |  Acc   |  18'  |  100%   |  84%   |   `cpp`    |
 | 160 | Intersection of Two Linked Lists `E`                           |        |       |         |        |   `cpp`    |
 | 162 | Find Peak Element `M`                                          | `OSK`  |  19'  |  100%   |  93%   |   `cpp`    |
 | 167 | Two Sum II - Input array is sorted `E`                         |        |       |         |        |   `cpp`    |
