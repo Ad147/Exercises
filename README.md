@@ -19,6 +19,7 @@ LeetCode
 | 027 | Remove Element `E`                                             |        |       |         |        |   `cpp`    |
 | 028 | Implement strStr() `E`                                         |        |       |         |        |   `cpp`    |
 | 033 | Search in Rotated Sorted Array `M`                             | 16/196 |  60+  |    -    |   -    |   `cpp`    |
+| 034 | Find First and Last Position of Element in Sorted Array `M`    | `OSK`  |  26'  |   99%   |  79%   |   `cpp`    |
 | 054 | Spiral Matrix `M`                                              | `OSK`  |       |         |        |   `cpp`    |
 | 060 | Permutation Sequence `M`                                       | `OSK`  |       |  100%   |        |   `cpp`    |
 | 061 | Rotate List `M`                                                | `OSK`  |       |   99%   |        |   `cpp`    |
