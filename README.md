@@ -66,8 +66,9 @@ LeetCode
 | 507 | Perfect Number `E`                                             |        |       |   97%   |        |    `cs`    |
 | 557 | Reverse Words in a String III `E`                              |        |       |   96%   |        |   `cpp`    |
 | 561 | Array Partition I `E`                                          |        |       |         |        |   `cpp`    |
-| 595 | Big Countries `E`                                              |        |       |         |        |  `.mysql`  |
+| 595 | Big Countries `E`                                              |        |       |         |        |  `mysql`  |
 | 657 | Robot Return to Origin `E`                                     |        |       |   97%   |        |    `cs`    |
+| 658 | Find K Closest Elements `M`                                    |  Acc   |  50'  |   98%   |  16%   |   `cpp`    |
 | 682 | Baseball Game `E`                                              |        |       |  100%   |        |    `c`     |
 | 704 | Binary Search `E`                                              |  Acc   |  14'  |   99%   |  100%  |   `cpp`    |
 | 707 | Design Linked List `E`                                         |        |       |   92%   |        |   `cpp`    |
