@@ -20,6 +20,7 @@ LeetCode
 | 028 | Implement strStr() `E`                                         |        |       |         |        |   `cpp`    |
 | 033 | Search in Rotated Sorted Array `M`                             |  Acc   |  20'  |  100%   |  44%   |   `cpp`    |
 | 034 | Find First and Last Position of Element in Sorted Array `M`    | `OSK`  |  26'  |   99%   |  79%   |   `cpp`    |
+| 050 | Pow(x, n) `M`                                                  |  Acc   |  45'  |  100%   |  51%   |   `cpp`    |
 | 054 | Spiral Matrix `M`                                              | `OSK`  |       |         |        |   `cpp`    |
 | 060 | Permutation Sequence `M`                                       | `OSK`  |       |  100%   |        |   `cpp`    |
 | 061 | Rotate List `M`                                                | `OSK`  |       |   99%   |        |   `cpp`    |
