@@ -75,10 +75,11 @@ LeetCode
 | 704 | Binary Search `E`                                              |  Acc   |  14'  |   99%   |  100%  |   `cpp`    |
 | 707 | Design Linked List `E`                                         |        |       |   92%   |        |   `cpp`    |
 | 709 | To Lower Case `E`                                              |        |       |  100%   |        |    `c`     |
-| 771 | Jewels and Stones `E`                                          |        |       |  56%F   |        |    `cs`    |
 | 724 | Find Pivot Index `E`                                           |        |       |         |        | `cpp` `py` |
 | 728 | Self Dividing Number `E`                                       |        |       |  65%F   |        |   `cpp`    |
+| 744 | Find Smallest Letter Greater Than Target `E`                   | `OSK`  |  20'  |   99%   |  72%   |   `cpp`    |
 | 747 | Largest Number At Least Twice of Others `E`                    |        |       |         |        | `cpp` `py` |
+| 771 | Jewels and Stones `E`                                          |        |       |  56%F   |        |    `cs`    |
 | 804 | Unique Morse Code Words `E`                                    |        |       |  78%F   |        |    `cs`    |
 | 832 | Flipping an Image `E`                                          |        |       |  68%F   |        |    `cs`    |
 | 905 | Sort Array By Parity `E`                                       |        |       |         |        |    `cs`    |
