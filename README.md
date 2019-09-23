@@ -27,6 +27,7 @@ LeetCode
 | 066 | Plus One `E`                                                   |        |       |         |        |   `cpp`    |
 | 067 | Add Binary `E`                                                 |        |       |         |        |   `cpp`    |
 | 069 | Sqrt(x) `E`                                                    |  Acc   | 21+17 |  100%   |  68%   |   `cpp`    |
+| 070 | *Climbing Stairs* `E`                                          |        |       | Exceed  |        |   `cpp`    |
 | 094 | Binary Tree Inorder Traversal `M`                              | `OSK`  |       |  100%   |        |   `cpp`    |
 | 101 | Symmetric Tree `E`                                             |        |       |  100%   |        |   `cpp`    |
 | 102 | Binary Tree Level Order Traversal `M`                          |        |       |  100%   |        |   `cpp`    |
@@ -45,6 +46,7 @@ LeetCode
 | 145 | Binary Tree Postorder Traversal `H`                            | `OSK`  |       |  100%   |        |   `cpp`    |
 | 151 | Reverse Words in a String `M`                                  | `OSK`  |       |         |        |   `cpp`    |
 | 153 | Find Minimum in Rotated Sorted Array `M`                       |  Acc   |  18'  |  100%   |  84%   |   `cpp`    |
+| 154 | Find Minimum in Rotated Sorted Array II `H`                    |  Acc   |  37'  |   98%   |  93%   |   `cpp`    |
 | 160 | Intersection of Two Linked Lists `E`                           |        |       |         |        |   `cpp`    |
 | 162 | Find Peak Element `M`                                          | `OSK`  |  19'  |  100%   |  93%   |   `cpp`    |
 | 167 | Two Sum II - Input array is sorted `E`                         |        |       |         |        |   `cpp`    |
@@ -82,15 +84,13 @@ LeetCode
 | 771 | Jewels and Stones `E`                                          |        |       |  56%F   |        |    `cs`    |
 | 804 | Unique Morse Code Words `E`                                    |        |       |  78%F   |        |    `cs`    |
 | 832 | Flipping an Image `E`                                          |        |       |  68%F   |        |    `cs`    |
+| 855 | *Exam Room* `M`                                                |        |       | Exceed  |        |    `cs`    |
 | 905 | Sort Array By Parity `E`                                       |        |       |         |        |    `cs`    |
 | 929 | Unique Email Addresses `E`                                     |        |       |   98%   |        |    `cs`    |
 | 942 | DI String Match `E`                                            |        |       |  100%   |        |    `cs`    |
 | 961 | N-Repeated Element in Size 2N Array `E`                        |        |       |  100%   |        |    `cs`    |
 | 965 | Univalued Binary Tree `E`                                      |        |       |         |        |    `cs`    |
 | 977 | Squares of a Sorted Array `E`                                  |        |       |  100%   |        |    `cs`    |
-|     |
-| 070 | Climbing Stairs `E`                                            |        |       | Exceed  |        |   `cpp`    |
-| 855 | Exam Room `M`                                                  |        |       | Exceed  |        |    `cs`    |
 
 PAT-Advanced
 --------------------------------------------------------------------------------
