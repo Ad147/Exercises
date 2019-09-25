@@ -61,7 +61,8 @@ LeetCode
 | 297 | Serialize and Deserialize Binary Tree `H`                      |        |       |   99%   |        |   `cpp`    |
 | 328 | Odd Even Linked List `M`                                       | `OSK`  |       |  100%   |        |   `cpp`    |
 | 344 | Reverse String `E`                                             |        |       |         |        |   `cpp`    |
-| 349 | Intersection of Two Arrays `E`                                 |  Acc   | 21+9  |   99%   |   46   |   `cpp`    |
+| 349 | Intersection of Two Arrays `E`                                 |  Acc   | 21+9  |   99%   |  46%   |   `cpp`    |
+| 350 | Intersection of Two Arrays II `E`                              | `OSK`  |  14'  |   99%   |   8%   |   `cpp`    |
 | 367 | Valid Perfect Square `E`                                       |  Acc   |  19'  |  100%   |  71%   |   `cpp`    |
 | 374 | Guess Number Higher or Lower `E`                               | `OSK`  |  10'  |  100%   |  61%   |   `cpp`    |
 | 412 | Fizz Buzz `E`                                                  |        |       |  100%   |        |    `cs`    |
