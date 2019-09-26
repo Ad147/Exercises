@@ -58,6 +58,7 @@ LeetCode
 | 236 | Lowest Common Ancestor of a Binary Tree `M`                    |        |       |  100%   |        |   `cpp`    |
 | 278 | First Bad Version `E`                                          |  Acc   |  31'  |  100%   |  27%   |   `cpp`    |
 | 283 | Move Zeroes `E`                                                |        |       |  100%   |        |   `cpp`    |
+| 287 | Find the Duplicate Number `M`                                  | `OSK`  |  35'  |   97%   |  80%   |   `cpp`    |
 | 297 | Serialize and Deserialize Binary Tree `H`                      |        |       |   99%   |        |   `cpp`    |
 | 328 | Odd Even Linked List `M`                                       | `OSK`  |       |  100%   |        |   `cpp`    |
 | 344 | Reverse String `E`                                             |        |       |         |        |   `cpp`    |
