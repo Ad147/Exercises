@@ -10,6 +10,7 @@ LeetCode
 | --- | -------------------------------------------------------------- | :----: | :---: | :-----: | :----: | :--------: |
 | 001 | Two Sum `E`                                                    |        |       |  100%   |        |   `cpp`    |
 | 002 | Add Two Numbers `M`                                            | `OSK`  |       |   99%   |        |   `cpp`    |
+| 004 | Median of Two Sorted Arrays `H`                                |  Err   |  46'  |    -    |   -    |   `cpp`    |
 | 007 | Reverse Integer `E`                                            |        |       |         |        |   `cpp`    |
 | 009 | Palindrome Number `E`                                          |        |       |         |        |   `cpp`    |
 | 014 | Longest Common Prefix `E`                                      |        |       |         |        |   `cpp`    |
