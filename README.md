@@ -67,6 +67,7 @@ LeetCode
 | 350 | Intersection of Two Arrays II `E`                              | `OSK`  |  14'  |   99%   |   8%   |   `cpp`    |
 | 367 | Valid Perfect Square `E`                                       |  Acc   |  19'  |  100%   |  71%   |   `cpp`    |
 | 374 | Guess Number Higher or Lower `E`                               | `OSK`  |  10'  |  100%   |  61%   |   `cpp`    |
+| 387 | First Unique Character in a String `E`                         | `OSK`  |  16'  |   92%   |  67%   |    `c`     |
 | 410 | Split Array Largest Sum `H`                                    |  2/27  |  56'  |    -    |   -    |   `cpp`    |
 | 412 | Fizz Buzz `E`                                                  |        |       |  100%   |        |    `cs`    |
 | 430 | Flatten a Multilevel Doubly Linked List `M`                    | `OSK`  |       |  100%   |        |   `cpp`    |
