@@ -1,8 +1,0 @@
-
-*.exe
-.vscode/
-cs/
-Test.cpp
-*.ilk
-*.pdb
-*.obj
