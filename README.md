@@ -70,6 +70,7 @@ LeetCode
 | 387 | First Unique Character in a String `E`                         | `OSK`  |  16'  |   92%   |  67%   |    `c`     |
 | 410 | Split Array Largest Sum `H`                                    |  2/27  |  56'  |    -    |   -    |   `cpp`    |
 | 412 | Fizz Buzz `E`                                                  |        |       |  100%   |        |    `cs`    |
+| 461 | Hamming Distance `E`                                           |  acc   |  29'  |  53%*   |  70%   |    `c`     |
 | 430 | Flatten a Multilevel Doubly Linked List `M`                    | `OSK`  |       |  100%   |        |   `cpp`    |
 | 485 | Max Consecutive Ones `E`                                       |        |       |         |        |   `cpp`    |
 | 498 | Diagonal Traverse `M`                                          |        |       |         |        |   `cpp`    |
