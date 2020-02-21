@@ -91,6 +91,7 @@ LeetCode
 | 747 | Largest Number At Least Twice of Others `E`                    |        |       |         |        | `cpp` `py` |
 | 771 | Jewels and Stones `E`                                          |        |       |  56%F   |        |    `cs`    |
 | 804 | Unique Morse Code Words `E`                                    |        |       |  78%F   |        |    `cs`    |
+| 806 | Number of Lines To Write String `E`                            |  osk   |  27'  |  100%   |  100%  |    `c`     |
 | 832 | Flipping an Image `E`                                          |        |       |  68%F   |        |    `cs`    |
 | 855 | *Exam Room* `M`                                                |        |       | Exceed  |        |    `cs`    |
 | 905 | Sort Array By Parity `E`                                       |        |       |         |        |    `cs`    |
