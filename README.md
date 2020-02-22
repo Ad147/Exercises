@@ -81,6 +81,7 @@ LeetCode
 | 657 | Robot Return to Origin `E`                                     |        |       |   97%   |        |    `cs`    |
 | 658 | Find K Closest Elements `M`                                    |  Acc   |  50'  |   98%   |  16%   |   `cpp`    |
 | 682 | Baseball Game `E`                                              |        |       |  100%   |        |    `c`     |
+| 687 | Longest Univalue Path `E`                                      |  acc   |  75'  |  100%   |  100%  |    `c`     |
 | 704 | Binary Search `E`                                              |  Acc   |  14'  |   99%   |  100%  |   `cpp`    |
 | 707 | Design Linked List `E`                                         |        |       |   92%   |        |   `cpp`    |
 | 709 | To Lower Case `E`                                              |        |       |  100%   |        |    `c`     |
