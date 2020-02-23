@@ -51,6 +51,7 @@ LeetCode
 | 160 | Intersection of Two Linked Lists `E`                           |        |       |         |        |   `cpp`    |
 | 162 | Find Peak Element `M`                                          | `OSK`  |  19'  |  100%   |  93%   |   `cpp`    |
 | 167 | Two Sum II - Input array is sorted `E`                         |        |       |         |        |   `cpp`    |
+| 168 | Excel Sheet Column Title `E`                                   |  osk   |  58'  |  100%   |  100%  |    `c`     |
 | 189 | Rotate Array `E`                                               |        |       |         |        |   `cpp`    |
 | 203 | Remove Linked List Elements `E`                                |        |       |  100%   |        |   `cpp`    |
 | 206 | Reverse Linked List `E`                                        |        |       |  100%   |        |   `cpp`    |
