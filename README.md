@@ -6,102 +6,103 @@ OJ Exercises
 LeetCode
 --------------------------------------------------------------------------------
 
-| #   | Title                                                          | Status | Time  | Runtime | Memory |  Language  |
-| --- | -------------------------------------------------------------- | :----: | :---: | :-----: | :----: | :--------: |
-| 001 | Two Sum `E`                                                    |        |       |  100%   |        |   `cpp`    |
-| 002 | Add Two Numbers `M`                                            | `OSK`  |       |   99%   |        |   `cpp`    |
-| 004 | Median of Two Sorted Arrays `H`                                |  Err   |  46'  |    -    |   -    |   `cpp`    |
-| 007 | Reverse Integer `E`                                            |        |       |         |        |   `cpp`    |
-| 009 | Palindrome Number `E`                                          |        |       |         |        |   `cpp`    |
-| 014 | Longest Common Prefix `E`                                      |        |       |         |        |   `cpp`    |
-| 019 | Remove Nth Node from End of List `M`                           |        |       |  100%   |        |   `cpp`    |
-| 021 | Merge Two Sorted Lists `E`                                     |        |       |   99%   |        |   `cpp`    |
-| 026 | Remove Duplicates from Sorted Array `E`                        |        |       |   99%   |        |   `cpp`    |
-| 027 | Remove Element `E`                                             |        |       |         |        |   `cpp`    |
-| 028 | Implement strStr() `E`                                         |        |       |         |        |   `cpp`    |
-| 033 | Search in Rotated Sorted Array `M`                             |  Acc   |  20'  |  100%   |  44%   |   `cpp`    |
-| 034 | Find First and Last Position of Element in Sorted Array `M`    | `OSK`  |  26'  |   99%   |  79%   |   `cpp`    |
-| 050 | Pow(x, n) `M`                                                  |  Acc   |  45'  |  100%   |  51%   |   `cpp`    |
-| 054 | Spiral Matrix `M`                                              | `OSK`  |       |         |        |   `cpp`    |
-| 060 | Permutation Sequence `M`                                       | `OSK`  |       |  100%   |        |   `cpp`    |
-| 061 | Rotate List `M`                                                | `OSK`  |       |   99%   |        |   `cpp`    |
-| 066 | Plus One `E`                                                   |        |       |         |        |   `cpp`    |
-| 067 | Add Binary `E`                                                 |        |       |         |        |   `cpp`    |
-| 069 | Sqrt(x) `E`                                                    |  Acc   | 21+17 |  100%   |  68%   |   `cpp`    |
-| 070 | *Climbing Stairs* `E`                                          |        |       | Exceed  |        |   `cpp`    |
-| 094 | Binary Tree Inorder Traversal `M`                              | `OSK`  |       |  100%   |        |   `cpp`    |
-| 101 | Symmetric Tree `E`                                             |        |       |  100%   |        |   `cpp`    |
-| 102 | Binary Tree Level Order Traversal `M`                          |        |       |  100%   |        |   `cpp`    |
-| 104 | Maximum Depth of Binary Tree `E`                               |        |       |  100%   |        |   `cpp`    |
-| 105 | Construct Binary Tree from Preorder and Inorder Traversal `M`  | `OSK`  |       |   91%   |        |   `cpp`    |
-| 106 | Construct Binary Tree from Inorder and Postorder Traversal `M` |        |       |  100%   |        |   `cpp`    |
-| 112 | Path Sum `E`                                                   |        |       |  100%   |        |   `cpp`    |
-| 116 | Populating Next Right Pointers in Each Node `M`                | `OSK`  |       |  82%F   |        |   `cpp`    |
-| 117 | Populating Next Right Pointers in Each Node II `M`             |        |       |  84%F   |        |   `cpp`    |
-| 118 | Pascal's Triangle `E`                                          |        |       |         |        |   `cpp`    |
-| 119 | Pascal's Triangle II `E`                                       |        |       |         |        |   `cpp`    |
-| 138 | Copy List with Random Pointer `M`                              |        |       |  100%   |        |   `cpp`    |
-| 141 | Linked List Cycle `E`                                          |        |       |  100%   |        |   `cpp`    |
-| 142 | Linked List Cycle II `M`                                       | `OSK`  |       |         |        |   `cpp`    |
-| 144 | Binary Tree Preorder Traversal `M`                             | `OSK`  |       |  100%   |        |   `cpp`    |
-| 145 | Binary Tree Postorder Traversal `H`                            | `OSK`  |       |  100%   |        |   `cpp`    |
-| 151 | Reverse Words in a String `M`                                  | `OSK`  |       |         |        |   `cpp`    |
-| 153 | Find Minimum in Rotated Sorted Array `M`                       |  Acc   |  18'  |  100%   |  84%   |   `cpp`    |
-| 154 | Find Minimum in Rotated Sorted Array II `H`                    |  Acc   |  37'  |   98%   |  93%   |   `cpp`    |
-| 160 | Intersection of Two Linked Lists `E`                           |        |       |         |        |   `cpp`    |
-| 162 | Find Peak Element `M`                                          | `OSK`  |  19'  |  100%   |  93%   |   `cpp`    |
-| 167 | Two Sum II - Input array is sorted `E`                         |        |       |         |        |   `cpp`    |
-| 168 | Excel Sheet Column Title `E`                                   |  osk   |  58'  |  100%   |  100%  |    `c`     |
-| 189 | Rotate Array `E`                                               |        |       |         |        |   `cpp`    |
-| 203 | Remove Linked List Elements `E`                                |        |       |  100%   |        |   `cpp`    |
-| 206 | Reverse Linked List `E`                                        |        |       |  100%   |        |   `cpp`    |
-| 209 | Minimum Size Subarray Sum `M`                                  | `OSK`  |       |         |        |   `cpp`    |
-| 234 | Palindrome Linked List `E`                                     |        |       |  100%   |        |   `cpp`    |
-| 236 | Lowest Common Ancestor of a Binary Tree `M`                    |        |       |  100%   |        |   `cpp`    |
-| 278 | First Bad Version `E`                                          |  Acc   |  31'  |  100%   |  27%   |   `cpp`    |
-| 283 | Move Zeroes `E`                                                |        |       |  100%   |        |   `cpp`    |
-| 287 | Find the Duplicate Number `M`                                  | `OSK`  |  35'  |   97%   |  80%   |   `cpp`    |
-| 297 | Serialize and Deserialize Binary Tree `H`                      |        |       |   99%   |        |   `cpp`    |
-| 328 | Odd Even Linked List `M`                                       | `OSK`  |       |  100%   |        |   `cpp`    |
-| 344 | Reverse String `E`                                             |        |       |         |        |   `cpp`    |
-| 349 | Intersection of Two Arrays `E`                                 |  Acc   | 21+9  |   99%   |  46%   |   `cpp`    |
-| 350 | Intersection of Two Arrays II `E`                              | `OSK`  |  14'  |   99%   |   8%   |   `cpp`    |
-| 367 | Valid Perfect Square `E`                                       |  Acc   |  19'  |  100%   |  71%   |   `cpp`    |
-| 374 | Guess Number Higher or Lower `E`                               | `OSK`  |  10'  |  100%   |  61%   |   `cpp`    |
-| 387 | First Unique Character in a String `E`                         | `OSK`  |  16'  |   92%   |  67%   |    `c`     |
-| 410 | Split Array Largest Sum `H`                                    |  2/27  |  56'  |    -    |   -    |   `cpp`    |
-| 412 | Fizz Buzz `E`                                                  |        |       |  100%   |        |    `cs`    |
-| 461 | Hamming Distance `E`                                           |  acc   |  29'  |  53%*   |  70%   |    `c`     |
-| 430 | Flatten a Multilevel Doubly Linked List `M`                    | `OSK`  |       |  100%   |        |   `cpp`    |
-| 485 | Max Consecutive Ones `E`                                       |        |       |         |        |   `cpp`    |
-| 498 | Diagonal Traverse `M`                                          |        |       |         |        |   `cpp`    |
-| 507 | Perfect Number `E`                                             |        |       |   97%   |        |    `cs`    |
-| 557 | Reverse Words in a String III `E`                              |        |       |   96%   |        |   `cpp`    |
-| 561 | Array Partition I `E`                                          |        |       |         |        |   `cpp`    |
-| 595 | Big Countries `E`                                              |        |       |         |        |  `mysql`   |
-| 657 | Robot Return to Origin `E`                                     |        |       |   97%   |        |    `cs`    |
-| 658 | Find K Closest Elements `M`                                    |  Acc   |  50'  |   98%   |  16%   |   `cpp`    |
-| 682 | Baseball Game `E`                                              |        |       |  100%   |        |    `c`     |
-| 687 | Longest Univalue Path `E`                                      |  acc   |  75'  |  100%   |  100%  |    `c`     |
-| 704 | Binary Search `E`                                              |  Acc   |  14'  |   99%   |  100%  |   `cpp`    |
-| 707 | Design Linked List `E`                                         |        |       |   92%   |        |   `cpp`    |
-| 709 | To Lower Case `E`                                              |        |       |  100%   |        |    `c`     |
-| 719 | Find K-th Smallest Pair Distance `H`                           |  TLE   |  25'  |    -    |   -    |   `cpp`    |
-| 724 | Find Pivot Index `E`                                           |        |       |         |        | `cpp` `py` |
-| 728 | Self Dividing Number `E`                                       |        |       |  65%F   |        |   `cpp`    |
-| 744 | Find Smallest Letter Greater Than Target `E`                   | `OSK`  |  20'  |   99%   |  72%   |   `cpp`    |
-| 747 | Largest Number At Least Twice of Others `E`                    |        |       |         |        | `cpp` `py` |
-| 771 | Jewels and Stones `E`                                          |        |       |  56%F   |        |    `cs`    |
-| 804 | Unique Morse Code Words `E`                                    |        |       |  78%F   |        |    `cs`    |
-| 806 | Number of Lines To Write String `E`                            |  osk   |  27'  |  100%   |  100%  |    `c`     |
-| 832 | Flipping an Image `E`                                          |        |       |  68%F   |        |    `cs`    |
-| 855 | *Exam Room* `M`                                                |        |       | Exceed  |        |    `cs`    |
-| 905 | Sort Array By Parity `E`                                       |        |       |         |        |    `cs`    |
-| 929 | Unique Email Addresses `E`                                     |        |       |   98%   |        |    `cs`    |
-| 942 | DI String Match `E`                                            |        |       |  100%   |        |    `cs`    |
-| 961 | N-Repeated Element in Size 2N Array `E`                        |        |       |  100%   |        |    `cs`    |
-| 965 | Univalued Binary Tree `E`                                      |        |       |         |        |    `cs`    |
-| 977 | Squares of a Sorted Array `E`                                  |        |       |  100%   |        |    `cs`    |
+| #    | Title                                                          | Status | Time  | Runtime | Memory |  Language  |
+| ---- | -------------------------------------------------------------- | :----: | :---: | :-----: | :----: | :--------: |
+| 001  | Two Sum `E`                                                    |        |       |  100%   |        |   `cpp`    |
+| 002  | Add Two Numbers `M`                                            | `OSK`  |       |   99%   |        |   `cpp`    |
+| 004  | Median of Two Sorted Arrays `H`                                |  Err   |  46'  |    -    |   -    |   `cpp`    |
+| 007  | Reverse Integer `E`                                            |        |       |         |        |   `cpp`    |
+| 009  | Palindrome Number `E`                                          |        |       |         |        |   `cpp`    |
+| 014  | Longest Common Prefix `E`                                      |        |       |         |        |   `cpp`    |
+| 019  | Remove Nth Node from End of List `M`                           |        |       |  100%   |        |   `cpp`    |
+| 021  | Merge Two Sorted Lists `E`                                     |        |       |   99%   |        |   `cpp`    |
+| 026  | Remove Duplicates from Sorted Array `E`                        |        |       |   99%   |        |   `cpp`    |
+| 027  | Remove Element `E`                                             |        |       |         |        |   `cpp`    |
+| 028  | Implement strStr() `E`                                         |        |       |         |        |   `cpp`    |
+| 033  | Search in Rotated Sorted Array `M`                             |  Acc   |  20'  |  100%   |  44%   |   `cpp`    |
+| 034  | Find First and Last Position of Element in Sorted Array `M`    | `OSK`  |  26'  |   99%   |  79%   |   `cpp`    |
+| 050  | Pow(x, n) `M`                                                  |  Acc   |  45'  |  100%   |  51%   |   `cpp`    |
+| 054  | Spiral Matrix `M`                                              | `OSK`  |       |         |        |   `cpp`    |
+| 060  | Permutation Sequence `M`                                       | `OSK`  |       |  100%   |        |   `cpp`    |
+| 061  | Rotate List `M`                                                | `OSK`  |       |   99%   |        |   `cpp`    |
+| 066  | Plus One `E`                                                   |        |       |         |        |   `cpp`    |
+| 067  | Add Binary `E`                                                 |        |       |         |        |   `cpp`    |
+| 069  | Sqrt(x) `E`                                                    |  Acc   | 21+17 |  100%   |  68%   |   `cpp`    |
+| 070  | *Climbing Stairs* `E`                                          |        |       | Exceed  |        |   `cpp`    |
+| 094  | Binary Tree Inorder Traversal `M`                              | `OSK`  |       |  100%   |        |   `cpp`    |
+| 101  | Symmetric Tree `E`                                             |        |       |  100%   |        |   `cpp`    |
+| 102  | Binary Tree Level Order Traversal `M`                          |        |       |  100%   |        |   `cpp`    |
+| 104  | Maximum Depth of Binary Tree `E`                               |        |       |  100%   |        |   `cpp`    |
+| 105  | Construct Binary Tree from Preorder and Inorder Traversal `M`  | `OSK`  |       |   91%   |        |   `cpp`    |
+| 106  | Construct Binary Tree from Inorder and Postorder Traversal `M` |        |       |  100%   |        |   `cpp`    |
+| 112  | Path Sum `E`                                                   |        |       |  100%   |        |   `cpp`    |
+| 116  | Populating Next Right Pointers in Each Node `M`                | `OSK`  |       |  82%F   |        |   `cpp`    |
+| 117  | Populating Next Right Pointers in Each Node II `M`             |        |       |  84%F   |        |   `cpp`    |
+| 118  | Pascal's Triangle `E`                                          |        |       |         |        |   `cpp`    |
+| 119  | Pascal's Triangle II `E`                                       |        |       |         |        |   `cpp`    |
+| 138  | Copy List with Random Pointer `M`                              |        |       |  100%   |        |   `cpp`    |
+| 141  | Linked List Cycle `E`                                          |        |       |  100%   |        |   `cpp`    |
+| 142  | Linked List Cycle II `M`                                       | `OSK`  |       |         |        |   `cpp`    |
+| 144  | Binary Tree Preorder Traversal `M`                             | `OSK`  |       |  100%   |        |   `cpp`    |
+| 145  | Binary Tree Postorder Traversal `H`                            | `OSK`  |       |  100%   |        |   `cpp`    |
+| 151  | Reverse Words in a String `M`                                  | `OSK`  |       |         |        |   `cpp`    |
+| 153  | Find Minimum in Rotated Sorted Array `M`                       |  Acc   |  18'  |  100%   |  84%   |   `cpp`    |
+| 154  | Find Minimum in Rotated Sorted Array II `H`                    |  Acc   |  37'  |   98%   |  93%   |   `cpp`    |
+| 160  | Intersection of Two Linked Lists `E`                           |        |       |         |        |   `cpp`    |
+| 162  | Find Peak Element `M`                                          | `OSK`  |  19'  |  100%   |  93%   |   `cpp`    |
+| 167  | Two Sum II - Input array is sorted `E`                         |        |       |         |        |   `cpp`    |
+| 168  | Excel Sheet Column Title `E`                                   |  osk   |  58'  |  100%   |  100%  |    `c`     |
+| 189  | Rotate Array `E`                                               |        |       |         |        |   `cpp`    |
+| 203  | Remove Linked List Elements `E`                                |        |       |  100%   |        |   `cpp`    |
+| 206  | Reverse Linked List `E`                                        |        |       |  100%   |        |   `cpp`    |
+| 209  | Minimum Size Subarray Sum `M`                                  | `OSK`  |       |         |        |   `cpp`    |
+| 234  | Palindrome Linked List `E`                                     |        |       |  100%   |        |   `cpp`    |
+| 236  | Lowest Common Ancestor of a Binary Tree `M`                    |        |       |  100%   |        |   `cpp`    |
+| 278  | First Bad Version `E`                                          |  Acc   |  31'  |  100%   |  27%   |   `cpp`    |
+| 283  | Move Zeroes `E`                                                |        |       |  100%   |        |   `cpp`    |
+| 287  | Find the Duplicate Number `M`                                  | `OSK`  |  35'  |   97%   |  80%   |   `cpp`    |
+| 297  | Serialize and Deserialize Binary Tree `H`                      |        |       |   99%   |        |   `cpp`    |
+| 328  | Odd Even Linked List `M`                                       | `OSK`  |       |  100%   |        |   `cpp`    |
+| 344  | Reverse String `E`                                             |        |       |         |        |   `cpp`    |
+| 349  | Intersection of Two Arrays `E`                                 |  Acc   | 21+9  |   99%   |  46%   |   `cpp`    |
+| 350  | Intersection of Two Arrays II `E`                              | `OSK`  |  14'  |   99%   |   8%   |   `cpp`    |
+| 367  | Valid Perfect Square `E`                                       |  Acc   |  19'  |  100%   |  71%   |   `cpp`    |
+| 374  | Guess Number Higher or Lower `E`                               | `OSK`  |  10'  |  100%   |  61%   |   `cpp`    |
+| 387  | First Unique Character in a String `E`                         | `OSK`  |  16'  |   92%   |  67%   |    `c`     |
+| 410  | Split Array Largest Sum `H`                                    |  2/27  |  56'  |    -    |   -    |   `cpp`    |
+| 412  | Fizz Buzz `E`                                                  |        |       |  100%   |        |    `cs`    |
+| 461  | Hamming Distance `E`                                           |  acc   |  29'  |  53%*   |  70%   |    `c`     |
+| 430  | Flatten a Multilevel Doubly Linked List `M`                    | `OSK`  |       |  100%   |        |   `cpp`    |
+| 485  | Max Consecutive Ones `E`                                       |        |       |         |        |   `cpp`    |
+| 498  | Diagonal Traverse `M`                                          |        |       |         |        |   `cpp`    |
+| 507  | Perfect Number `E`                                             |        |       |   97%   |        |    `cs`    |
+| 557  | Reverse Words in a String III `E`                              |        |       |   96%   |        |   `cpp`    |
+| 561  | Array Partition I `E`                                          |        |       |         |        |   `cpp`    |
+| 595  | Big Countries `E`                                              |        |       |         |        |  `mysql`   |
+| 657  | Robot Return to Origin `E`                                     |        |       |   97%   |        |    `cs`    |
+| 658  | Find K Closest Elements `M`                                    |  Acc   |  50'  |   98%   |  16%   |   `cpp`    |
+| 682  | Baseball Game `E`                                              |        |       |  100%   |        |    `c`     |
+| 687  | Longest Univalue Path `E`                                      |  acc   |  75'  |  100%   |  100%  |    `c`     |
+| 704  | Binary Search `E`                                              |  Acc   |  14'  |   99%   |  100%  |   `cpp`    |
+| 707  | Design Linked List `E`                                         |        |       |   92%   |        |   `cpp`    |
+| 709  | To Lower Case `E`                                              |        |       |  100%   |        |    `c`     |
+| 719  | Find K-th Smallest Pair Distance `H`                           |  TLE   |  25'  |    -    |   -    |   `cpp`    |
+| 724  | Find Pivot Index `E`                                           |        |       |         |        | `cpp` `py` |
+| 728  | Self Dividing Number `E`                                       |        |       |  65%F   |        |   `cpp`    |
+| 744  | Find Smallest Letter Greater Than Target `E`                   | `OSK`  |  20'  |   99%   |  72%   |   `cpp`    |
+| 747  | Largest Number At Least Twice of Others `E`                    |        |       |         |        | `cpp` `py` |
+| 771  | Jewels and Stones `E`                                          |        |       |  56%F   |        |    `cs`    |
+| 804  | Unique Morse Code Words `E`                                    |        |       |  78%F   |        |    `cs`    |
+| 806  | Number of Lines To Write String `E`                            |  osk   |  27'  |  100%   |  100%  |    `c`     |
+| 832  | Flipping an Image `E`                                          |        |       |  68%F   |        |    `cs`    |
+| 855  | *Exam Room* `M`                                                |        |       | Exceed  |        |    `cs`    |
+| 905  | Sort Array By Parity `E`                                       |        |       |         |        |    `cs`    |
+| 929  | Unique Email Addresses `E`                                     |        |       |   98%   |        |    `cs`    |
+| 942  | DI String Match `E`                                            |        |       |  100%   |        |    `cs`    |
+| 961  | N-Repeated Element in Size 2N Array `E`                        |        |       |  100%   |        |    `cs`    |
+| 965  | Univalued Binary Tree `E`                                      |        |       |         |        |    `cs`    |
+| 977  | Squares of a Sorted Array `E`                                  |        |       |  100%   |        |    `cs`    |
+| 1323 | Maximum 69 Number `E`                                          |  osk   |  13'  |  100%   |  100%  |    `c`     |
 
 PAT-Advanced
 --------------------------------------------------------------------------------
