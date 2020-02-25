@@ -92,6 +92,7 @@ LeetCode
 | 744  | Find Smallest Letter Greater Than Target `E`                   | `OSK`  |  20'  |   99%   |  72%   |   `cpp`    |
 | 747  | Largest Number At Least Twice of Others `E`                    |        |       |         |        | `cpp` `py` |
 | 771  | Jewels and Stones `E`                                          |        |       |  56%F   |        |    `cs`    |
+| 784  | Letter Case Permutation `E`                                    |  osk   |  61'  |   97%   |  100%  |    `c`     |
 | 804  | Unique Morse Code Words `E`                                    |        |       |  78%F   |        |    `cs`    |
 | 806  | Number of Lines To Write String `E`                            |  osk   |  27'  |  100%   |  100%  |    `c`     |
 | 832  | Flipping an Image `E`                                          |        |       |  68%F   |        |    `cs`    |
