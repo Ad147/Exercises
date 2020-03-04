@@ -41,6 +41,7 @@ LeetCode
 | 118  | Pascal's Triangle `E`                                          |  1sk   |    -    |   -   |   `cpp`    |
 | 119  | Pascal's Triangle II `E`                                       |  1sk   |    -    |   -   |   `cpp`    |
 | 121  | Best Time to Buy and Sell Stock `E`                            |  acc   |   99%   |  23'  |  `c` `py`  |
+| 122  | Best Time to Buy and Sell Stock II `E`                         |  acc   |  100%   |  17'  |  `c` `py`  |
 | 138  | Copy List with Random Pointer `M`                              |  acc   |  100%   |   -   |   `cpp`    |
 | 141  | Linked List Cycle `E`                                          |  acc   |  100%   |   -   |   `cpp`    |
 | 142  | Linked List Cycle II `M`                                       |  1sk   |    -    |   -   |   `cpp`    |
