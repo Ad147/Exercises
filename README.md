@@ -75,6 +75,7 @@ LeetCode
 | 412  | Fizz Buzz `E`                                                  |  1sk   |  100%   |   -   |    `cs`    |
 | 430  | Flatten a Multilevel Doubly Linked List `M`                    |  1sk   |  100%   |   -   |   `cpp`    |
 | 461  | Hamming Distance `E`                                           |  acc   |  53%*   |  29'  |    `c`     |
+| 475  | Heaters `E`                                                    |  acc   |  100%   |  70'  |    `c`     |
 | 485  | Max Consecutive Ones `E`                                       |  1sk   |    -    |   -   |   `cpp`    |
 | 498  | Diagonal Traverse `M`                                          |  acc   |    -    |   -   |   `cpp`    |
 | 507  | Perfect Number `E`                                             |  acc   |   97%   |   -   |    `cs`    |
