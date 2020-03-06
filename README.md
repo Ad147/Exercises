@@ -64,6 +64,7 @@ LeetCode
 | 283  | Move Zeroes `E`                                                |  1sk   |  100%   |   -   |   `cpp`    |
 | 287  | Find the Duplicate Number `M`                                  |  1sk   |   97%   |  35'  |   `cpp`    |
 | 297  | Serialize and Deserialize Binary Tree `H`                      |  acc   |   99%   |   -   |   `cpp`    |
+| 326  | Power of Three `E`                                             |  acc   |  80%*   |  32'  |    `c`     |
 | 328  | Odd Even Linked List `M`                                       |  1sk   |  100%   |   -   |   `cpp`    |
 | 344  | Reverse String `E`                                             |  1sk   |    -    |   -   |   `cpp`    |
 | 349  | Intersection of Two Arrays `E`                                 |  acc   |   99%   |  21'  |   `cpp`    |
