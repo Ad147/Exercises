@@ -80,6 +80,7 @@ LeetCode
 | 485  | Max Consecutive Ones `E`                                       |  1sk   |    -    |   -   |   `cpp`    |
 | 498  | Diagonal Traverse `M`                                          |  acc   |    -    |   -   |   `cpp`    |
 | 500  | Keyboard Row `E`                                               |  1sk   |  100%   |  25'  |   `cpp`    |
+| 506  | Relative Ranks `E`                                             |  acc   |   99%   |  40'  |   `cpp`    |
 | 507  | Perfect Number `E`                                             |  acc   |   97%   |   -   |    `cs`    |
 | 557  | Reverse Words in a String III `E`                              |  1sk   |   96%   |   -   |   `cpp`    |
 | 561  | Array Partition I `E`                                          |  1sk   |    -    |   -   |   `cpp`    |
