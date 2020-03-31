@@ -109,6 +109,7 @@ LeetCode
 | 942  | DI String Match `E`                                            |  acc   |  100%   |   -   |    `cs`    |
 | 961  | N-Repeated Element in Size 2N Array `E`                        |  1sk   |  100%   |   -   |    `cs`    |
 | 965  | Univalued Binary Tree `E`                                      |  acc   |    -    |   -   |    `cs`    |
+| 970  | Powerful Integers `E`                                          |  acc   |  100%   |  41'  |   `cpp`    |
 | 977  | Squares of a Sorted Array `E`                                  |  1sk   |  100%   |   -   |    `cs`    |
 | 1030 | Matrix Cells in Distance Order `E`                             |  1sk   |  60%*   |  53'  |   `cpp`    |
 | 1033 | Moving Stones Until Consecutive `E`                            |  1sk   |  100%   |  24'  |  `c` `py`  |
