@@ -79,6 +79,7 @@ LeetCode
 | 461  | Hamming Distance `E`                                           |  acc   |  53%*   |  29'  |    `c`     |
 | 475  | Heaters `E`                                                    |  acc   |  100%   |  70'  |    `c`     |
 | 485  | Max Consecutive Ones `E`                                       |  1sk   |    -    |   -   |   `cpp`    |
+| 492  | Construct the Rectangle `E`                                    |  acc   |  100%   |  20'  |    `c`     |
 | 498  | Diagonal Traverse `M`                                          |  acc   |    -    |   -   |   `cpp`    |
 | 500  | Keyboard Row `E`                                               |  1sk   |  100%   |  25'  |   `cpp`    |
 | 506  | Relative Ranks `E`                                             |  acc   |   99%   |  40'  |   `cpp`    |
