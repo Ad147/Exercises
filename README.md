@@ -71,6 +71,7 @@ LeetCode
 | 349  | Intersection of Two Arrays `E`                                 |  acc   |   99%   |  21'  |   `cpp`    |
 | 350  | Intersection of Two Arrays II `E`                              |  1sk   |   99%   |  14'  |   `cpp`    |
 | 367  | Valid Perfect Square `E`                                       |  acc   |  100%   |  19'  |   `cpp`    |
+| 371  | Sum of Two Integers `E`                                        |  acc   |  100%   |  10'  |    `c`     |
 | 374  | Guess Number Higher or Lower `E`                               |  1sk   |  100%   |  10'  |   `cpp`    |
 | 387  | First Unique Character in a String `E`                         |  1sk   |   92%   |  16'  |    `c`     |
 | 410  | Split Array Largest Sum `H`                                    |  2/27  |    -    |  56'  |   `cpp`    |
