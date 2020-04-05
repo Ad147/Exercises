@@ -10,8 +10,10 @@ LeetCode
 | 4    | Median of Two Sorted Arrays `H`                                |  ERR   |         |  46'  |   `cpp`    |
 | 7    | Reverse Integer `E`                                            |  acc   |    -    |   -   |   `cpp`    |
 | 9    | Palindrome Number `E`                                          |  1sk   |    -    |   -   |   `cpp`    |
+| 13   | Roman to Integer `E`                                           |  1sk   |  85%*   |  16'  |    `c`     |
 | 14   | Longest Common Prefix `E`                                      |  1sk   |    -    |   -   |   `cpp`    |
 | 19   | Remove Nth Node from End of List `M`                           |  acc   |  100%   |   -   |   `cpp`    |
+| 20   | Valid Parentheses `E`                                          |  acc   |  100%   |  13'  |    `c`     |
 | 21   | Merge Two Sorted Lists `E`                                     |  1sk   |   99%   |   -   |   `cpp`    |
 | 26   | Remove Duplicates from Sorted Array `E`                        |  1sk   |   99%   |   -   |   `cpp`    |
 | 27   | Remove Element `E`                                             |  1sk   |    -    |   -   |   `cpp`    |
