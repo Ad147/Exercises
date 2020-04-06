@@ -20,6 +20,8 @@ LeetCode
 | 28   | Implement strStr() `E`                                         |  acc   |    -    |   -   |   `cpp`    |
 | 33   | Search in Rotated Sorted Array `M`                             |  acc   |  100%   |  20'  |   `cpp`    |
 | 34   | Find First and Last Position of Element in Sorted Array `M`    |  1sk   |   99%   |  26'  |   `cpp`    |
+| 35   | Search Insert Position `E`                                     |  1sk   |   82%   |  10'  |    `c`     |
+| 38   | Count and Say `E`                                              |  acc   |  100%   |  32'  |   `cpp`    |
 | 50   | Pow(x, n) `M`                                                  |  acc   |  100%   |  45'  |   `cpp`    |
 | 54   | Spiral Matrix `M`                                              |  1sk   |    -    |   -   |   `cpp`    |
 | 60   | Permutation Sequence `M`                                       |  1sk   |  100%   |   -   |   `cpp`    |
