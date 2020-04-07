@@ -23,6 +23,7 @@ LeetCode
 | 35   | Search Insert Position `E`                                     |  1sk   |   82%   |  10'  |    `c`     |
 | 38   | Count and Say `E`                                              |  acc   |  100%   |  32'  |   `cpp`    |
 | 50   | Pow(x, n) `M`                                                  |  acc   |  100%   |  45'  |   `cpp`    |
+| 53   | Maximum Subarray `E`                                           |  acc   |   97%   |  32'  |    `c`     |
 | 54   | Spiral Matrix `M`                                              |  1sk   |    -    |   -   |   `cpp`    |
 | 60   | Permutation Sequence `M`                                       |  1sk   |  100%   |   -   |   `cpp`    |
 | 61   | Rotate List `M`                                                |  1sk   |   99%   |   -   |   `cpp`    |
