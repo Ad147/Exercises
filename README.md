@@ -25,6 +25,7 @@ LeetCode
 | 50   | Pow(x, n) `M`                                                  |  acc   |  100%   |  45'  |   `cpp`    |
 | 53   | Maximum Subarray `E`                                           |  acc   |   97%   |  32'  |    `c`     |
 | 54   | Spiral Matrix `M`                                              |  1sk   |    -    |   -   |   `cpp`    |
+| 58   | Length of Last Word `E`                                        |  acc   |   86%   |  17'  |    `py`    |
 | 60   | Permutation Sequence `M`                                       |  1sk   |  100%   |   -   |   `cpp`    |
 | 61   | Rotate List `M`                                                |  1sk   |   99%   |   -   |   `cpp`    |
 | 66   | Plus One `E`                                                   |  1sk   |    -    |   -   |   `cpp`    |
