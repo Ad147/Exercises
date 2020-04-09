@@ -31,7 +31,7 @@ LeetCode
 | 66   | Plus One `E`                                                   |  1sk   |    -    |   -   |   `cpp`    |
 | 67   | Add Binary `E`                                                 |  acc   |    -    |   -   |   `cpp`    |
 | 69   | Sqrt(x) `E`                                                    |  acc   |  100%   |  21'  |   `cpp`    |
-| 70   | *Climbing Stairs* `E`                                          |  TLE   | exceed  |   -   |   `cpp`    |
+| 70   | Climbing Stairs `E`                                            |  acc   |  100%   |  9'   |    `c`     |
 | 94   | Binary Tree Inorder Traversal `M`                              |  1sk   |  100%   |   -   |   `cpp`    |
 | 101  | Symmetric Tree `E`                                             |  acc   |  100%   |   -   |   `cpp`    |
 | 102  | Binary Tree Level Order Traversal `M`                          |  acc   |  100%   |   -   |   `cpp`    |
