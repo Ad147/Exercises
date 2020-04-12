@@ -35,6 +35,7 @@ LeetCode
 | 83   | Remove Duplicates from Sorted List `E`                         |  acc   |   94%   |  17'  |    `c`     |
 | 88   | Merge Sorted Array `E`                                         |  1sk   |   81%   |  6'   |   `cpp`    |
 | 94   | Binary Tree Inorder Traversal `M`                              |  1sk   |  100%   |   -   |   `cpp`    |
+| 100  | Same Tree `E`                                                  |  1sk   |  21%*   |  8'   |    `c`     |
 | 101  | Symmetric Tree `E`                                             |  acc   |  100%   |   -   |   `cpp`    |
 | 102  | Binary Tree Level Order Traversal `M`                          |  acc   |  100%   |   -   |   `cpp`    |
 | 104  | Maximum Depth of Binary Tree `E`                               |  1sk   |  100%   |   -   |   `cpp`    |
