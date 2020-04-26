@@ -62,6 +62,7 @@ LeetCode
 | 151  | Reverse Words in a String `M`                                  |  1sk   |    -    |   -   |   `cpp`    |
 | 153  | Find Minimum in Rotated Sorted Array `M`                       |  acc   |  100%   |  18'  |   `cpp`    |
 | 154  | Find Minimum in Rotated Sorted Array II `H`                    |  acc   |   98%   |  37'  |   `cpp`    |
+| 155  | Min Stack `E`                                                  |  acc   |  73%*   |  21'  |   `cpp`    |
 | 160  | Intersection of Two Linked Lists `E`                           |  acc   |    -    |   -   |   `cpp`    |
 | 162  | Find Peak Element `M`                                          |  1sk   |  100%   |  19'  |   `cpp`    |
 | 167  | Two Sum II - Input array is sorted `E`                         |  acc   |    -    |   -   |   `cpp`    |
