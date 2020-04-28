@@ -69,6 +69,7 @@ LeetCode
 | 168  | Excel Sheet Column Title `E`                                   |  1sk   |  100%   |  58'  |    `c`     |
 | 169  | Majority Element `E`                                           |  1sk   |   99%   |  10'  |   `cpp`    |
 | 171  | Excel Sheet Column Number `E`                                  |  1sk   |  100%   |  5'   |    `c`     |
+| 172  | Factorial Trailing Zeroes `E`                                  |  acc   |  100%   |  11'  |    `c`     |
 | 189  | Rotate Array `E`                                               |  acc   |    -    |   -   |   `cpp`    |
 | 203  | Remove Linked List Elements `E`                                |  1sk   |  100%   |   -   |   `cpp`    |
 | 206  | Reverse Linked List `E`                                        |  1sk   |  100%   |   -   |   `cpp`    |
