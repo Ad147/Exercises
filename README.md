@@ -71,6 +71,7 @@ LeetCode
 | 171  | Excel Sheet Column Number `E`                                  |  1sk   |  100%   |  5'   |    `c`     |
 | 172  | Factorial Trailing Zeroes `E`                                  |  acc   |  100%   |  11'  |    `c`     |
 | 189  | Rotate Array `E`                                               |  acc   |    -    |   -   |   `cpp`    |
+| 190  | Reverse Bits `E`                                               |  1sk   |  100%   |  24'  |    `c`     |
 | 203  | Remove Linked List Elements `E`                                |  1sk   |  100%   |   -   |   `cpp`    |
 | 206  | Reverse Linked List `E`                                        |  1sk   |  100%   |   -   |   `cpp`    |
 | 209  | Minimum Size Subarray Sum `M`                                  |  1sk   |    -    |   -   |   `cpp`    |
