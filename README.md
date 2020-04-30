@@ -73,6 +73,8 @@ LeetCode
 | 189  | Rotate Array `E`                                               |  acc   |    -    |   -   |   `cpp`    |
 | 190  | Reverse Bits `E`                                               |  1sk   |  100%   |  24'  |    `c`     |
 | 203  | Remove Linked List Elements `E`                                |  1sk   |  100%   |   -   |   `cpp`    |
+| 191  | Number of 1 Bits `E`                                           |  1sk   |  100%   |  3'   |    `c`     |
+| 198  | House Robber `E`                                               | 55/69  |         |  60'  |    `c`     |
 | 206  | Reverse Linked List `E`                                        |  1sk   |  100%   |   -   |   `cpp`    |
 | 209  | Minimum Size Subarray Sum `M`                                  |  1sk   |    -    |   -   |   `cpp`    |
 | 234  | Palindrome Linked List `E`                                     |  acc   |  100%   |   -   |   `cpp`    |
