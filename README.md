@@ -81,6 +81,7 @@ LeetCode
 | 206  | Reverse Linked List `E`                                        |  1sk   |  100%   |   -   |   `cpp`    |
 | 209  | Minimum Size Subarray Sum `M`                                  |  1sk   |    -    |   -   |   `cpp`    |
 | 217  | Contains Duplicate `E`                                         |  acc   |  83%*   |  8'   |   `cpp`    |
+| 219  | Contains Duplicate II `E`                                      |  1sk   |  83%*   |  13'  |   `cpp`    |
 | 234  | Palindrome Linked List `E`                                     |  acc   |  100%   |   -   |   `cpp`    |
 | 236  | Lowest Common Ancestor of a Binary Tree `M`                    |  acc   |  100%   |   -   |   `cpp`    |
 | 278  | First Bad Version `E`                                          |  acc   |  100%   |  31'  |   `cpp`    |
