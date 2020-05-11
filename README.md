@@ -83,6 +83,7 @@ LeetCode
 | 217  | Contains Duplicate `E`                                         |  acc   |  83%*   |  8'   |   `cpp`    |
 | 219  | Contains Duplicate II `E`                                      |  1sk   |  83%*   |  13'  |   `cpp`    |
 | 225  | Implement Stack using Queues `E`                               |  ERR   |         |  50'  |    `c`     |
+| 226  | Invert Binary Tree `E`                                         |  1sk   |  100%   |  6'   |    `c`     |
 | 234  | Palindrome Linked List `E`                                     |  acc   |  100%   |   -   |   `cpp`    |
 | 236  | Lowest Common Ancestor of a Binary Tree `M`                    |  acc   |  100%   |   -   |   `cpp`    |
 | 278  | First Bad Version `E`                                          |  acc   |  100%   |  31'  |   `cpp`    |
