@@ -87,6 +87,7 @@ LeetCode
 | 231  | Power of Two `E`                                               |  acc   |  100%   |  11'  |    `c`     |
 | 232  | Implement Queue using Stacks `E`                               |  1sk   |  100%   |  14'  |    `c`     |
 | 234  | Palindrome Linked List `E`                                     |  acc   |  100%   |   -   |   `cpp`    |
+| 235  | Lowest Common Ancestor of a Binary Search Tree `E`             |  1sk   |   96%   |  9'   |    `c`     |
 | 236  | Lowest Common Ancestor of a Binary Tree `M`                    |  acc   |  100%   |   -   |   `cpp`    |
 | 278  | First Bad Version `E`                                          |  acc   |  100%   |  31'  |   `cpp`    |
 | 283  | Move Zeroes `E`                                                |  1sk   |  100%   |   -   |   `cpp`    |
