@@ -91,6 +91,7 @@ LeetCode
 | 236  | Lowest Common Ancestor of a Binary Tree `M`                    |  acc   |  100%   |   -   |   `cpp`    |
 | 237  | Delete Node in a Linked List `E`                               |  1sk   |   94%   |  10'  |    `c`     |
 | 242  | Valid Anagram `E`                                              |  1sk   |  78%*   |  13'  |    `c`     |
+| 257  | Binary Tree Paths `E`                                          |  1sk   |  79%*   |  21'  |   `cpp`    |
 | 278  | First Bad Version `E`                                          |  acc   |  100%   |  31'  |   `cpp`    |
 | 283  | Move Zeroes `E`                                                |  1sk   |  100%   |   -   |   `cpp`    |
 | 287  | Find the Duplicate Number `M`                                  |  1sk   |   97%   |  35'  |   `cpp`    |
