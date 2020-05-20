@@ -94,6 +94,7 @@ LeetCode
 | 257  | Binary Tree Paths `E`                                          |  1sk   |  79%*   |  21'  |   `cpp`    |
 | 258  | Add Digits `E`                                                 |  1sk   |  100%   |  10'  |    `c`     |
 | 263  | Ugly Number `E`                                                |  1sk   |  100%   |  6'   |    `c`     |
+| 268  | Missing Number `E`                                             |  acc   |  89%*   |  48'  |    `c`     |
 | 278  | First Bad Version `E`                                          |  acc   |  100%   |  31'  |   `cpp`    |
 | 283  | Move Zeroes `E`                                                |  1sk   |  100%   |   -   |   `cpp`    |
 | 287  | Find the Duplicate Number `M`                                  |  1sk   |   97%   |  35'  |   `cpp`    |
