@@ -98,6 +98,7 @@ LeetCode
 | 278  | First Bad Version `E`                                          |  acc   |  100%   |  31'  |   `cpp`    |
 | 283  | Move Zeroes `E`                                                |  1sk   |  100%   |   -   |   `cpp`    |
 | 287  | Find the Duplicate Number `M`                                  |  1sk   |   97%   |  35'  |   `cpp`    |
+| 290  | Word Pattern `E`                                               |  acc   |   98%   |  60'  |    `py`    |
 | 297  | Serialize and Deserialize Binary Tree `H`                      |  acc   |   99%   |   -   |   `cpp`    |
 | 326  | Power of Three `E`                                             |  acc   |  80%*   |  32'  |    `c`     |
 | 328  | Odd Even Linked List `M`                                       |  1sk   |  100%   |   -   |   `cpp`    |
