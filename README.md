@@ -101,6 +101,7 @@ LeetCode
 | 290  | Word Pattern `E`                                               |  acc   |   98%   |  60'  |    `py`    |
 | 292  | Nim Game `E`                                                   |  1sk   |  100%   |  4'   |    `c`     |
 | 297  | Serialize and Deserialize Binary Tree `H`                      |  acc   |   99%   |   -   |   `cpp`    |
+| 299  | Bulls and Cows `E`                                             |  acc   |  100%   |  51'  |    `c`     |
 | 326  | Power of Three `E`                                             |  acc   |  80%*   |  32'  |    `c`     |
 | 328  | Odd Even Linked List `M`                                       |  1sk   |  100%   |   -   |   `cpp`    |
 | 344  | Reverse String `E`                                             |  1sk   |    -    |   -   |   `cpp`    |
