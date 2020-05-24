@@ -102,6 +102,7 @@ LeetCode
 | 292  | Nim Game `E`                                                   |  1sk   |  100%   |  4'   |    `c`     |
 | 297  | Serialize and Deserialize Binary Tree `H`                      |  acc   |   99%   |   -   |   `cpp`    |
 | 299  | Bulls and Cows `E`                                             |  acc   |  100%   |  51'  |    `c`     |
+| 303  | Range Sum Query - Immutable `E`                                |  1sk   |  100%   |  10'  |   `cpp`    |
 | 326  | Power of Three `E`                                             |  acc   |  80%*   |  32'  |    `c`     |
 | 328  | Odd Even Linked List `M`                                       |  1sk   |  100%   |   -   |   `cpp`    |
 | 344  | Reverse String `E`                                             |  1sk   |    -    |   -   |   `cpp`    |
