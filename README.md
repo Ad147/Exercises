@@ -107,6 +107,7 @@ LeetCode
 | 328  | Odd Even Linked List `M`                                       |  1sk   |  100%   |   -   |   `cpp`    |
 | 342  | Power of Four `E`                                              |  acc   |  100%   |  16'  |    `c`     |
 | 344  | Reverse String `E`                                             |  1sk   |    -    |   -   |   `cpp`    |
+| 345  | Reverse Vowels of a String `E`                                 |  acc   |  100%   |  12'  |    `c`     |
 | 349  | Intersection of Two Arrays `E`                                 |  acc   |   99%   |  21'  |   `cpp`    |
 | 350  | Intersection of Two Arrays II `E`                              |  1sk   |   99%   |  14'  |   `cpp`    |
 | 367  | Valid Perfect Square `E`                                       |  acc   |  100%   |  19'  |   `cpp`    |
