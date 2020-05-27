@@ -113,6 +113,7 @@ LeetCode
 | 367  | Valid Perfect Square `E`                                       |  acc   |  100%   |  19'  |   `cpp`    |
 | 371  | Sum of Two Integers `E`                                        |  acc   |  100%   |  10'  |    `c`     |
 | 374  | Guess Number Higher or Lower `E`                               |  1sk   |  100%   |  10'  |   `cpp`    |
+| 383  | Ransom Note `E`                                                |  1sk   |   92%   |  6'   |    `c`     |
 | 387  | First Unique Character in a String `E`                         |  1sk   |   92%   |  16'  |    `c`     |
 | 410  | Split Array Largest Sum `H`                                    |  2/27  |    -    |  56'  |   `cpp`    |
 | 412  | Fizz Buzz `E`                                                  |  1sk   |  100%   |   -   |    `cs`    |
