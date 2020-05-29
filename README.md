@@ -116,6 +116,7 @@ LeetCode
 | 383  | Ransom Note `E`                                                |  1sk   |   92%   |  6'   |    `c`     |
 | 387  | First Unique Character in a String `E`                         |  1sk   |   92%   |  16'  |    `c`     |
 | 389  | Find the Difference `E`                                        |  1sk   |  100%   |  4'   |    `c`     |
+| 392  | Is Subsequence `E`                                             |  1sk   |  100%   |  9'   |    `c`     |
 | 410  | Split Array Largest Sum `H`                                    |  2/27  |    -    |  56'  |   `cpp`    |
 | 412  | Fizz Buzz `E`                                                  |  1sk   |  100%   |   -   |    `cs`    |
 | 430  | Flatten a Multilevel Doubly Linked List `M`                    |  1sk   |  100%   |   -   |   `cpp`    |
