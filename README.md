@@ -123,6 +123,7 @@ LeetCode
 | 409  | Longest Palindrome `E`                                         |  1sk   |  100%   |  11'  |    `c`     |
 | 410  | Split Array Largest Sum `H`                                    |  2/27  |    -    |  56'  |   `cpp`    |
 | 412  | Fizz Buzz `E`                                                  |  1sk   |  100%   |   -   |    `cs`    |
+| 414  | Third Maximum Number `E`                                       |  acc   |   92%   |  17'  |    `c`     |
 | 430  | Flatten a Multilevel Doubly Linked List `M`                    |  1sk   |  100%   |   -   |   `cpp`    |
 | 461  | Hamming Distance `E`                                           |  acc   |  53%*   |  29'  |    `c`     |
 | 475  | Heaters `E`                                                    |  acc   |  100%   |  70'  |    `c`     |
