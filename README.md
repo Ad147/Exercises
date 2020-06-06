@@ -127,6 +127,7 @@ LeetCode
 | 415  | Add Strings `E`                                                |  1sk   |  100%   |  42'  |    `c`     |
 | 430  | Flatten a Multilevel Doubly Linked List `M`                    |  1sk   |  100%   |   -   |   `cpp`    |
 | 434  | Number of Segments in a String `E`                             |  acc   |  100%   |  13'  |    `c`     |
+| 437  | Path Sum III `E`                                               |  acc   |   97%   |  54'  |    `c`     |
 | 461  | Hamming Distance `E`                                           |  acc   |  53%*   |  29'  |    `c`     |
 | 475  | Heaters `E`                                                    |  acc   |  100%   |  70'  |    `c`     |
 | 485  | Max Consecutive Ones `E`                                       |  1sk   |    -    |   -   |   `cpp`    |
