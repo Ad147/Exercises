@@ -135,6 +135,7 @@ LeetCode
 | 453  | Minimum Moves to Equal Array Elements `E`                      |  acc   |  70%*   |  6'   |    `c`     |
 | 455  | Assign Cookies `E`                                             |  1sk   |   90%   |  12'  |   `cpp`    |
 | 461  | Hamming Distance `E`                                           |  acc   |  53%*   |  29'  |    `c`     |
+| 463  | Island Perimeter `E`                                           |  acc   |  78%*   |  43'  |    `c`     |
 | 475  | Heaters `E`                                                    |  acc   |  100%   |  70'  |    `c`     |
 | 485  | Max Consecutive Ones `E`                                       |  1sk   |    -    |   -   |   `cpp`    |
 | 492  | Construct the Rectangle `E`                                    |  acc   |  100%   |  20'  |    `c`     |
