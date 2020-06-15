@@ -138,6 +138,7 @@ LeetCode
 | 463  | Island Perimeter `E`                                           |  acc   |  78%*   |  43'  |    `c`     |
 | 475  | Heaters `E`                                                    |  acc   |  100%   |  70'  |    `c`     |
 | 476  | Number Complement `E`                                          |  1sk   |  100%   |  13'  |    `c`     |
+| 482  | License Key Formatting `E`                                     |  acc   |  81%*   |  32'  |    `c`     |
 | 485  | Max Consecutive Ones `E`                                       |  1sk   |    -    |   -   |   `cpp`    |
 | 492  | Construct the Rectangle `E`                                    |  acc   |  100%   |  20'  |    `c`     |
 | 498  | Diagonal Traverse `M`                                          |  acc   |    -    |   -   |   `cpp`    |
