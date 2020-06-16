@@ -141,6 +141,7 @@ LeetCode
 | 482  | License Key Formatting `E`                                     |  acc   |  81%*   |  32'  |    `c`     |
 | 485  | Max Consecutive Ones `E`                                       |  1sk   |    -    |   -   |   `cpp`    |
 | 492  | Construct the Rectangle `E`                                    |  acc   |  100%   |  20'  |    `c`     |
+| 496  | Next Greater Element I `E`                                     |  1sk   |  100%   |  14'  |    `c`     |
 | 498  | Diagonal Traverse `M`                                          |  acc   |    -    |   -   |   `cpp`    |
 | 500  | Keyboard Row `E`                                               |  1sk   |  100%   |  25'  |   `cpp`    |
 | 506  | Relative Ranks `E`                                             |  acc   |   99%   |  40'  |   `cpp`    |
