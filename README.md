@@ -149,6 +149,7 @@ LeetCode
 | 506  | Relative Ranks `E`                                             |  acc   |   99%   |  40'  |   `cpp`    |
 | 507  | Perfect Number `E`                                             |  acc   |   97%   |   -   |    `cs`    |
 | 509  | Fibonacci Number `E`                                           |  1sk   |  100%   |  6'   |    `c`     |
+| 520  | Detect Capital `E`                                             |  1sk   |  100%   |  10'  |    `c`     |
 | 557  | Reverse Words in a String III `E`                              |  1sk   |   96%   |   -   |   `cpp`    |
 | 561  | Array Partition I `E`                                          |  1sk   |    -    |   -   |   `cpp`    |
 | 595  | Big Countries `E`                                              |  1sk   |    -    |   -   |  `mysql`   |
