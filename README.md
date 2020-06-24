@@ -153,6 +153,7 @@ LeetCode
 | 521  | Longest Uncommon Subsequence I `E`                             |  acc   |  100%   |  10'  |    `c`     |
 | 530  | Minimum Absolute Difference in BST `E`                         |  acc   |   90%   |  29'  |    `c`     |
 | 532  | K-diff Pairs in an Array `E`                                   |  1sk   |   93%   |  11'  |   `cpp`    |
+| 538  | Convert BST to Greater Tree `E`                                |  1sk   |  100%   |  11'  |    `c`     |
 | 557  | Reverse Words in a String III `E`                              |  1sk   |   96%   |   -   |   `cpp`    |
 | 561  | Array Partition I `E`                                          |  1sk   |    -    |   -   |   `cpp`    |
 | 595  | Big Countries `E`                                              |  1sk   |    -    |   -   |  `mysql`   |
