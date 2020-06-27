@@ -156,6 +156,7 @@ LeetCode
 | 538  | Convert BST to Greater Tree `E`                                |  1sk   |  100%   |  11'  |    `c`     |
 | 541  | Reverse String II `E`                                          |  acc   |  100%   |  30'  |    `c`     |
 | 543  | Diameter of Binary Tree `E`                                    |  acc   |   96%   |  15'  |    `c`     |
+| 551  | Student Attendance Record I `E`                                |  acc   |   91%   |  13'  |    `py`    |
 | 557  | Reverse Words in a String III `E`                              |  1sk   |   96%   |   -   |   `cpp`    |
 | 561  | Array Partition I `E`                                          |  1sk   |    -    |   -   |   `cpp`    |
 | 595  | Big Countries `E`                                              |  1sk   |    -    |   -   |  `mysql`   |
