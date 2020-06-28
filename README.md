@@ -158,6 +158,7 @@ LeetCode
 | 543  | Diameter of Binary Tree `E`                                    |  acc   |   96%   |  15'  |    `c`     |
 | 551  | Student Attendance Record I `E`                                |  acc   |   91%   |  13'  |    `py`    |
 | 557  | Reverse Words in a String III `E`                              |  1sk   |   96%   |   -   |   `cpp`    |
+| 559  | Maximum Depth of N-ary Tree `E`                                |  1sk   |   80%   |  21'  |    `py`    |
 | 561  | Array Partition I `E`                                          |  1sk   |    -    |   -   |   `cpp`    |
 | 595  | Big Countries `E`                                              |  1sk   |    -    |   -   |  `mysql`   |
 | 657  | Robot Return to Origin `E`                                     |  1sk   |   97%   |   -   |    `cs`    |
