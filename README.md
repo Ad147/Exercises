@@ -160,6 +160,7 @@ LeetCode
 | 557  | Reverse Words in a String III `E`                              |  1sk   |   96%   |   -   |   `cpp`    |
 | 559  | Maximum Depth of N-ary Tree `E`                                |  1sk   |   80%   |  21'  |    `py`    |
 | 561  | Array Partition I `E`                                          |  1sk   |    -    |   -   |   `cpp`    |
+| 563  | Binary Tree Tilt `E`                                           |  1sk   |   85%   |  26'  |    `py`    |
 | 595  | Big Countries `E`                                              |  1sk   |    -    |   -   |  `mysql`   |
 | 657  | Robot Return to Origin `E`                                     |  1sk   |   97%   |   -   |    `cs`    |
 | 658  | Find K Closest Elements `M`                                    |  acc   |   98%   |  50'  |   `cpp`    |
