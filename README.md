@@ -163,6 +163,7 @@ LeetCode
 | 563  | Binary Tree Tilt `E`                                           |  1sk   |   85%   |  26'  |    `py`    |
 | 566  | Reshape the Matrix `E`                                         |  acc   |   94%   |  49'  |   `cpp`    |
 | 572  | Subtree of Another Tree `E`                                    |  acc   |   93%   |  33'  |    `py`    |
+| 575  | Distribute Candies `E`                                         |  1sk   |   96%   |  16'  |    `py`    |
 | 595  | Big Countries `E`                                              |  1sk   |    -    |   -   |  `mysql`   |
 | 657  | Robot Return to Origin `E`                                     |  1sk   |   97%   |   -   |    `cs`    |
 | 658  | Find K Closest Elements `M`                                    |  acc   |   98%   |  50'  |   `cpp`    |
