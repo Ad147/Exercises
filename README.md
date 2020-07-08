@@ -167,6 +167,7 @@ LeetCode
 | 581  | Shortest Unsorted Continuous Subarray `E`                      | 184/307 |    -    |  70'  |    `py`    |
 | 589  | N-ary Tree Preorder Traversal `E`                              |   acc   |  22%*   |  11'  |    `py`    |
 | 590  | N-ary Tree Postorder Traversal `E`                             |   1sk   |   23%   |  4'   |    `py`    |
+| 594  | Longest Harmonious Subsequence `E`                             |   acc   |  45%*   |  41'  |    `py`    |
 | 595  | Big Countries `E`                                              |   1sk   |    -    |   -   |  `mysql`   |
 | 657  | Robot Return to Origin `E`                                     |   1sk   |   97%   |   -   |    `cs`    |
 | 658  | Find K Closest Elements `M`                                    |   acc   |   98%   |  50'  |   `cpp`    |
