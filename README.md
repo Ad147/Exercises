@@ -171,6 +171,7 @@ LeetCode
 | 595  | Big Countries `E`                                              |   1sk   |    -    |   -   |  `mysql`   |
 | 598  | Range Addition II `E`                                          |   1sk   |   22%   |  6'   |    `py`    |
 | 599  | Minimum Index Sum of Two Lists `E`                             |   acc   |   99%   |  29'  |    `py`    |
+| 605  | Can Place Flowers `E`                                          |   acc   |   82%   |  24'  |    `py`    |
 | 657  | Robot Return to Origin `E`                                     |   1sk   |   97%   |   -   |    `cs`    |
 | 658  | Find K Closest Elements `M`                                    |   acc   |   98%   |  50'  |   `cpp`    |
 | 682  | Baseball Game `E`                                              |   1sk   |  100%   |   -   |    `c`     |
