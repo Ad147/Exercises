@@ -175,6 +175,7 @@ LeetCode
 | 606  | Construct String from Binary Tree `E`                          |   1sk   |   97%   |  18'  |    `py`    |
 | 617  | Merge Two Binary Trees `E`                                     |   1sk   |  60%*   |  17'  |    `py`    |
 | 628  | Maximum Product of Three Numbers `E`                           |   acc   |  36%*   |  11'  |    `py`    |
+| 633  | Sum of Square Numbers `E`                                      |   acc   |   96%   |  31'  |    `py`    |
 | 657  | Robot Return to Origin `E`                                     |   1sk   |   97%   |   -   |    `cs`    |
 | 658  | Find K Closest Elements `M`                                    |   acc   |   98%   |  50'  |   `cpp`    |
 | 682  | Baseball Game `E`                                              |   1sk   |  100%   |   -   |    `c`     |
