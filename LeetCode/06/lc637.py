@@ -27,23 +27,3 @@ class Solution:
             lvl = tmp
 
         return res
-
-        # q = deque([root, None])
-        # s = cnt = 0
-        # while q:
-        #     n = q.popleft()
-        #     if not n:
-        #         if cnt == 0:
-        #             break
-        #         res.append(s/cnt)
-        #         q.append(None)
-        #         s = cnt = 0
-        #     else:
-        #         s += n.val
-        #         cnt += 1
-        #         if n.left:
-        #             q.append(n.left)
-        #         if n.right:
-        #             q.append(n.right)
-
-        # return res
