@@ -194,6 +194,7 @@ LeetCode
 | 690  | Employee Importance `E`                                        |   1sk   |   98%   |  15'  |    `py`    |
 | 693  | Binary Number with Alternating Bits `E`                        |   acc   |   99%   |  16'  |    `py`    |
 | 696  | Count Binary Substrings `E`                                    |   acc   |   96%   |  58'  |    `py`    |
+| 697  | Degree of an Array `E`                                         |   acc   |  100%   |  41'  |    `py`    |
 | 704  | Binary Search `E`                                              |   acc   |   99%   |  14'  |   `cpp`    |
 | 707  | Design Linked List `E`                                         |   acc   |   92%   |   -   |   `cpp`    |
 | 709  | To Lower Case `E`                                              |   1sk   |  100%   |   -   |    `c`     |
