@@ -198,6 +198,7 @@ LeetCode
 | 700  | Search in a Binary Search Tree `E`                             |   1sk   |   99%   |  4'   |    `py`    |
 | 703  | Kth Largest Element in a Stream `E`                            |   acc   |   95%   |  20'  |    `py`    |
 | 704  | Binary Search `E`                                              |   acc   |   99%   |  14'  |   `cpp`    |
+| 705  | Design HashSet `E`                                             |   acc   |   99%   |  15'  |    `py`    |
 | 707  | Design Linked List `E`                                         |   acc   |   92%   |   -   |   `cpp`    |
 | 709  | To Lower Case `E`                                              |   1sk   |  100%   |   -   |    `c`     |
 | 719  | Find K-th Smallest Pair Distance `H`                           |   TLE   | exceed  |  25'  |   `cpp`    |
