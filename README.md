@@ -202,6 +202,7 @@ LeetCode
 | 706  | Design HashMap `E`                                             |   acc   |  100%   |  13'  |    `py`    |
 | 707  | Design Linked List `E`                                         |   acc   |   92%   |   -   |   `cpp`    |
 | 709  | To Lower Case `E`                                              |   1sk   |  100%   |   -   |    `c`     |
+| 717  | 1-bit and 2-bit Characters `E`                                 |   1sk   |   91%   |  16'  |    `py`    |
 | 719  | Find K-th Smallest Pair Distance `H`                           |   TLE   | exceed  |  25'  |   `cpp`    |
 | 724  | Find Pivot Index `E`                                           |   1sk   |    -    |   -   | `cpp` `py` |
 | 728  | Self Dividing Number `E`                                       |   1sk   |  65%*   |   -   |   `cpp`    |
