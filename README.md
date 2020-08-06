@@ -204,6 +204,7 @@ LeetCode
 | 709  | To Lower Case `E`                                              |   1sk   |  100%   |   -   |    `c`     |
 | 717  | 1-bit and 2-bit Characters `E`                                 |   1sk   |   91%   |  16'  |    `py`    |
 | 719  | Find K-th Smallest Pair Distance `H`                           |   TLE   | exceed  |  25'  |   `cpp`    |
+| 720  | Longest Word in Dictionary `E`                                 |   acc   |   95%   |  56'  |    `py`    |
 | 724  | Find Pivot Index `E`                                           |   1sk   |    -    |   -   | `cpp` `py` |
 | 728  | Self Dividing Number `E`                                       |   1sk   |  65%*   |   -   |   `cpp`    |
 | 744  | Find Smallest Letter Greater Than Target `E`                   |   1sk   |   99%   |  20'  |   `cpp`    |
