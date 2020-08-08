@@ -209,6 +209,7 @@ LeetCode
 | 728  | Self Dividing Number `E`                                       |   1sk   |  65%*   |   -   |   `cpp`    |
 | 733  | Flood Fill `E`                                                 |   acc   |   97%   |  45'  |    `py`    |
 | 744  | Find Smallest Letter Greater Than Target `E`                   |   1sk   |   99%   |  20'  |   `cpp`    |
+| 746  | Min Cost Climbing Stairs `E`                                   |   acc   |   89%   |  60'  |    `py`    |
 | 747  | Largest Number At Least Twice of Others `E`                    |   1sk   |    -    |   -   | `cpp` `py` |
 | 771  | Jewels and Stones `E`                                          |   1sk   |  56%*   |   -   |    `cs`    |
 | 784  | Letter Case Permutation `E`                                    |   1sk   |   97%   |  61'  |    `c`     |
