@@ -213,6 +213,7 @@ LeetCode
 | 747  | Largest Number At Least Twice of Others `E`                    |   1sk   |    -    |   -   | `cpp` `py` |
 | 748  | Shortest Completing Word `E`                                   |   acc   |   94%   |  50'  |    `py`    |
 | 762  | Prime Number of Set Bits in Binary Representation `E`          |   acc   |   95%   |  18'  |    `py`    |
+| 766  | Toeplitz Matrix `E`                                            |   1sk   |  100%   |  8'   |    `py`    |
 | 771  | Jewels and Stones `E`                                          |   1sk   |  56%*   |   -   |    `cs`    |
 | 784  | Letter Case Permutation `E`                                    |   1sk   |   97%   |  61'  |    `c`     |
 | 804  | Unique Morse Code Words `E`                                    |   1sk   |  78%*   |   -   |    `cs`    |
