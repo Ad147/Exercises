@@ -215,6 +215,7 @@ LeetCode
 | 762  | Prime Number of Set Bits in Binary Representation `E`          |   acc   |   95%   |  18'  |    `py`    |
 | 766  | Toeplitz Matrix `E`                                            |   1sk   |  100%   |  8'   |    `py`    |
 | 771  | Jewels and Stones `E`                                          |   1sk   |  56%*   |   -   |    `cs`    |
+| 783  | Minimum Distance Between BST Nodes `E`                         |   acc   |   92%   |  29'  |    `py`    |
 | 784  | Letter Case Permutation `E`                                    |   1sk   |   97%   |  61'  |    `c`     |
 | 804  | Unique Morse Code Words `E`                                    |   1sk   |  78%*   |   -   |    `cs`    |
 | 806  | Number of Lines To Write String `E`                            |   1sk   |  100%   |  27'  |    `c`     |
