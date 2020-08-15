@@ -221,6 +221,7 @@ LeetCode
 | 796  | Rotate String `E`                                              |   acc   |   99%   |  20'  |    `py`    |
 | 804  | Unique Morse Code Words `E`                                    |   1sk   |  78%*   |   -   |    `cs`    |
 | 806  | Number of Lines To Write String `E`                            |   1sk   |  100%   |  27'  |    `c`     |
+| 811  | Subdomain Visit Count `E`                                      |   1sk   |   99%   |  36'  |    `py`    |
 | 832  | Flipping an Image `E`                                          |   1sk   |  68%*   |   -   |    `cs`    |
 | 836  | Rectangle Overlap `E`                                          |   acc   |  100%   |  38'  |    `c`     |
 | 855  | *Exam Room* `M`                                                |   TLE   | exceed  |   -   |    `cs`    |
