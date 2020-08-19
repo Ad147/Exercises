@@ -225,6 +225,7 @@ LeetCode
 | 812  | Largest Triangle Area `E`                                      |   acc   |   82%   |  27'  |    `py`    |
 | 819  | Most Common Word `E`                                           |   acc   |   73%   |  58'  |    `py`    |
 | 821  | Shortest Distance to a Character `E`                           |   1sk   |   98%   |  13'  |    `py`    |
+| 824  | Goat Latin `E`                                                 |   acc   |   99%   |  14'  |    `py`    |
 | 832  | Flipping an Image `E`                                          |   1sk   |  68%*   |   -   |    `cs`    |
 | 836  | Rectangle Overlap `E`                                          |   acc   |  100%   |  38'  |    `c`     |
 | 855  | *Exam Room* `M`                                                |   TLE   | exceed  |   -   |    `cs`    |
