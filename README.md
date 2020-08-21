@@ -229,6 +229,7 @@ LeetCode
 | 830  | Positions of Large Groups `E`                                  |   acc   |   97%   |  12'  |    `py`    |
 | 832  | Flipping an Image `E`                                          |   1sk   |  68%*   |   -   |    `cs`    |
 | 836  | Rectangle Overlap `E`                                          |   acc   |  100%   |  38'  |    `c`     |
+| 840  | Magic Squares In Grid `E`                                      |   1sk   |   73%   |  42'  |    `py`    |
 | 855  | *Exam Room* `M`                                                |   TLE   | exceed  |   -   |    `cs`    |
 | 905  | Sort Array By Parity `E`                                       |   1sk   |    -    |   -   |    `cs`    |
 | 929  | Unique Email Addresses `E`                                     |   1sk   |   98%   |   -   |    `cs`    |
