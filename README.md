@@ -231,7 +231,8 @@ LeetCode
 | 836  | Rectangle Overlap `E`                                          |   acc   |  100%   |  38'  |    `c`     |
 | 840  | Magic Squares In Grid `E`                                      |   1sk   |   73%   |  42'  |    `py`    |
 | 844  | Backspace String Compare `E`                                   |   acc   |   87%   |  67'  |    `py`    |
-| 855  | *Exam Room* `M`                                                |   TLE   | exceed  |   -   |    `cs`    |
+| 849  | Maximize Distance to Closest Person `E`                        |   acc   |   98%   |  15'  |    `py`    |
+| 855  | Exam Room `M`                                                  |   TLE   | exceed  |   -   |    `cs`    |
 | 905  | Sort Array By Parity `E`                                       |   1sk   |    -    |   -   |    `cs`    |
 | 929  | Unique Email Addresses `E`                                     |   1sk   |   98%   |   -   |    `cs`    |
 | 942  | DI String Match `E`                                            |   acc   |  100%   |   -   |    `cs`    |
