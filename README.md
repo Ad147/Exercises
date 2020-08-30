@@ -234,6 +234,7 @@ LeetCode
 | 849  | Maximize Distance to Closest Person `E`                        |   acc   |   98%   |  15'  |    `py`    |
 | 852  | Peak Index in a Mountain Array `E`                             |   1sk   |   99%   |  5'   |    `py`    |
 | 855  | Exam Room `M`                                                  |   TLE   | exceed  |   -   |    `cs`    |
+| 859  | Buddy Strings `E`                                              |   1sk   |   98%   |  13'  |    `py`    |
 | 905  | Sort Array By Parity `E`                                       |   1sk   |    -    |   -   |    `cs`    |
 | 929  | Unique Email Addresses `E`                                     |   1sk   |   98%   |   -   |    `cs`    |
 | 942  | DI String Match `E`                                            |   acc   |  100%   |   -   |    `cs`    |
