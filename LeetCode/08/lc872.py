@@ -1,6 +1,6 @@
 # LeetCode 872. Leaf-Similar Trees `E`
 # 1sk | 100% | 21'
-# A~0i01
+# A~0v01
 
 # Definition for a binary tree node.
 # class TreeNode:
