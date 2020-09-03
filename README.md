@@ -240,6 +240,7 @@ LeetCode
 | 868  | Binary Gap `E`                                                 |   1sk   |   97%   |  13'  |    `py`    |
 | 872  | Leaf-Similar Trees `E`                                         |   1sk   |  100%   |  21'  |    `py`    |
 | 874  | Walking Robot Simulation `E`                                   |   acc   |   94%   |  54'  |    `py`    |
+| 876  | Middle of the Linked List `E`                                  |   acc   |   63%   |  9'   |    `py`    |
 | 905  | Sort Array By Parity `E`                                       |   1sk   |    -    |   -   |    `cs`    |
 | 929  | Unique Email Addresses `E`                                     |   1sk   |   98%   |   -   |    `cs`    |
 | 942  | DI String Match `E`                                            |   acc   |  100%   |   -   |    `cs`    |
