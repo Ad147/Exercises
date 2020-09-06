@@ -243,6 +243,7 @@ LeetCode
 | 876  | Middle of the Linked List `E`                                  |   acc   |   63%   |  9'   |    `py`    |
 | 883  | Projection Area of 3D Shapes `E`                               |   1sk   |   97%   |  27'  |    `py`    |
 | 884  | Uncommon Words from Two Sentences `E`                          |   1sk   |   84%   |  10'  |    `py`    |
+| 888  | Fair Candy Swap `E`                                            |   1sk   |   92%   |  7'   |    `py`    |
 | 905  | Sort Array By Parity `E`                                       |   1sk   |    -    |   -   |    `cs`    |
 | 929  | Unique Email Addresses `E`                                     |   1sk   |   98%   |   -   |    `cs`    |
 | 942  | DI String Match `E`                                            |   acc   |  100%   |   -   |    `cs`    |
