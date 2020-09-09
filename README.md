@@ -246,6 +246,7 @@ LeetCode
 | 888  | Fair Candy Swap `E`                                            |   1sk   |   92%   |  7'   |    `py`    |
 | 892  | Surface Area of 3D Shapes `E`                                  |   acc   |   94%   |  45'  |    `py`    |
 | 893  | Groups of Special-Equivalent Strings `E`                       |   acc   |  100%   |  21'  |    `py`    |
+| 896  | Monotonic Array `E`                                            |   1sk   |   97%   |  9'   |    `py`    |
 | 905  | Sort Array By Parity `E`                                       |   1sk   |    -    |   -   |    `cs`    |
 | 929  | Unique Email Addresses `E`                                     |   1sk   |   98%   |   -   |    `cs`    |
 | 942  | DI String Match `E`                                            |   acc   |  100%   |   -   |    `cs`    |
