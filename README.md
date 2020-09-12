@@ -250,6 +250,7 @@ LeetCode
 | 897  | Increasing Order Search Tree `E`                               |   1sk   |   89%   |  19'  |    `py`    |
 | 905  | Sort Array By Parity `E`                                       |   1sk   |    -    |   -   |    `cs`    |
 | 908  | Smallest Range I `E`                                           |   1sk   |   97%   |  3'   |    `py`    |
+| 914  | X of a Kind in a Deck of Cards `E`                             |   acc   |   90%   |  43'  |    `py`    |
 | 929  | Unique Email Addresses `E`                                     |   1sk   |   98%   |   -   |    `cs`    |
 | 942  | DI String Match `E`                                            |   acc   |  100%   |   -   |    `cs`    |
 | 961  | N-Repeated Element in Size 2N Array `E`                        |   1sk   |  100%   |   -   |    `cs`    |
