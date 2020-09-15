@@ -253,6 +253,7 @@ LeetCode
 | 914  | X of a Kind in a Deck of Cards `E`                             |   acc   |   90%   |  43'  |    `py`    |
 | 917  | Reverse Only Letters `E`                                       |   1sk   |   94%   |  20'  |    `py`    |
 | 922  | Sort Array By Parity II `E`                                    |   1sk   |   80%   |  13'  |    `py`    |
+| 925  | Long Pressed Name `E`                                          |   acc   |   88%   |  27'  |    `py`    |
 | 929  | Unique Email Addresses `E`                                     |   1sk   |   98%   |   -   |    `cs`    |
 | 942  | DI String Match `E`                                            |   acc   |  100%   |   -   |    `cs`    |
 | 961  | N-Repeated Element in Size 2N Array `E`                        |   1sk   |  100%   |   -   |    `cs`    |
