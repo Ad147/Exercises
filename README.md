@@ -256,6 +256,7 @@ LeetCode
 | 925  | Long Pressed Name `E`                                          |   acc   |   88%   |  27'  |    `py`    |
 | 929  | Unique Email Addresses `E`                                     |   1sk   |   98%   |   -   |    `cs`    |
 | 933  | Number of Recent Calls `E`                                     |   1sk   |   98%   |  9'   |    `py`    |
+| 937  | Reorder Data in Log Files `E`                                  |   acc   |   98%   |  14'  |    `py`    |
 | 942  | DI String Match `E`                                            |   acc   |  100%   |   -   |    `cs`    |
 | 961  | N-Repeated Element in Size 2N Array `E`                        |   1sk   |  100%   |   -   |    `cs`    |
 | 965  | Univalued Binary Tree `E`                                      |   acc   |    -    |   -   |    `cs`    |
