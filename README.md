@@ -261,6 +261,7 @@ LeetCode
 | 941  | Valid Mountain Array `E`                                       |   1sk   |   81    |  10'  |    `py`    |
 | 942  | DI String Match `E`                                            |   acc   |  100%   |   -   |    `cs`    |
 | 944  | Delete Columns to Make Sorted `E`                              |   acc   |   90%   |  16'  |    `py`    |
+| 953  | Verifying an Alien Dictionary `E`                              |   1sk   |   97%   |  22'  |    `py`    |
 | 961  | N-Repeated Element in Size 2N Array `E`                        |   1sk   |  100%   |   -   |    `cs`    |
 | 965  | Univalued Binary Tree `E`                                      |   acc   |    -    |   -   |    `cs`    |
 | 970  | Powerful Integers `E`                                          |   acc   |  100%   |  41'  |   `cpp`    |
