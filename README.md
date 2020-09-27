@@ -271,6 +271,7 @@ LeetCode
 | 989  | Add to Array-Form of Integer `E`                               |   1sk   |   49%   |  4'   |    `py`    |
 | 993  | Cousins in Binary Tree `E`                                     |   1sk   |   92%   |  38'  |    `py`    |
 | 997  | Find the Town Judge `E`                                        |   acc   |  100%   |  13'  |    `py`    |
+| 999  | Available Captures for Rook `E`                                |   1sk   |   96%   |  22'  |    `py`    |
 | 1030 | Matrix Cells in Distance Order `E`                             |   1sk   |  60%*   |  53'  |   `cpp`    |
 | 1033 | Moving Stones Until Consecutive `E`                            |   1sk   |  100%   |  24'  |  `c` `py`  |
 | 1323 | Maximum 69 Number `E`                                          |   1sk   |  100%   |  13'  |    `c`     |
