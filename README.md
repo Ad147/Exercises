@@ -84,6 +84,7 @@ LeetCode
 | 219  | Contains Duplicate II `E`                                      |   1sk   |  83%*   |  13'  |   `cpp`    |
 | 225  | Implement Stack using Queues `E`                               |   ERR   |         |  50'  |    `c`     |
 | 226  | Invert Binary Tree `E`                                         |   1sk   |  100%   |  6'   |    `c`     |
+| 228  | Summary Ranges `E`                                             |   1sk   |   95%   |  21'  |    `py`    |
 | 231  | Power of Two `E`                                               |   acc   |  100%   |  11'  |    `c`     |
 | 232  | Implement Queue using Stacks `E`                               |   1sk   |  100%   |  14'  |    `c`     |
 | 234  | Palindrome Linked List `E`                                     |   acc   |  100%   |   -   |   `cpp`    |
