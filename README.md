@@ -76,7 +76,7 @@ LeetCode
 | 191  | Number of 1 Bits `E`                                           |   1sk   |  100%   |  3'   |    `c`     |
 | 198  | House Robber `E`                                               |  55/69  |         |  60'  |    `c`     |
 | 202  | Happy Number `E`                                               |   1sk   |  100%   |  15'  |    `c`     |
-| 204  | Count Primes `E`                                               |  17/20  |         |  30'  |    `c`     |
+| 204  | Count Primes `E`                                               |   acc   |   25%   |  10'  |    `c`     |
 | 205  | Isomorphic Strings `E`                                         |   acc   |  100%   |  47'  |    `c`     |
 | 206  | Reverse Linked List `E`                                        |   1sk   |  100%   |   -   |   `cpp`    |
 | 209  | Minimum Size Subarray Sum `M`                                  |   1sk   |    -    |   -   |   `cpp`    |
