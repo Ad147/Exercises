@@ -1,6 +1,6 @@
 /* lc198.c */
 
-/* LeetCode 198. House Robber `E` */
+/* LeetCode 198. House Robber `M` */
 /* 55/69 |  | 60' */
 /* A~0d30 */
 

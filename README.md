@@ -74,7 +74,7 @@ LeetCode
 | 190  | Reverse Bits `E`                                               |   1sk   |  100%   |  24'  |    `c`     |
 | 203  | Remove Linked List Elements `E`                                |   1sk   |  100%   |   -   |   `cpp`    |
 | 191  | Number of 1 Bits `E`                                           |   1sk   |  100%   |  3'   |    `c`     |
-| 198  | House Robber `E`                                               |  55/69  |         |  60'  |    `c`     |
+| 198  | House Robber `M`                                               |  55/69  |         |  60'  |    `c`     |
 | 202  | Happy Number `E`                                               |   1sk   |  100%   |  15'  |    `c`     |
 | 204  | Count Primes `E`                                               |   acc   |   25%   |  10'  |    `c`     |
 | 205  | Isomorphic Strings `E`                                         |   acc   |  100%   |  47'  |    `c`     |
