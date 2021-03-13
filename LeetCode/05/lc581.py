@@ -1,38 +1,23 @@
-# lc581.py
-
-# LeetCode 581. Shortest Unsorted Continuous Subarray `E`
-# 184/307 | - | 70'
+# LeetCode 581. Shortest Unsorted Continuous Subarray `M`
+# acc | 98% | 70'
 # A~0g03
 
 
 class Solution:
     def findUnsortedSubarray(self, nums: List[int]) -> int:
-        if len(nums) == 1:
+        i, j = 0, len(nums) - 1
+        while i < j and nums[i] <= nums[i+1]:
+            i += 1
+        while i < j and nums[j-1] <= nums[j]:
+            j -= 1
+
+        if i == j:
             return 0
 
-        minval, maxval = 2 ** 31, -1
-        flag = False
-        for i in range(1, len(nums)):
-            if nums[i - 1] > nums[i]:
-                flag = True
-            if flag:
-                minval = min(minval, nums[i])
-
-        for i in range(len(nums) - 2, -1, -1):
-            if nums[i] > nums[i + 1]:
-                flag = True
-            if flag:
-                maxval = max(maxval, nums[i])
-
-        i = j = 0
-        for i in range(len(nums)):
-            if minval < nums[i]:
-                break
-        for j in range(len(nums) - 1, -1, -1):
-            if maxval > nums[j]:
-                break
-
-        if j - i < 0:
-            return 0
-        else:
-            return j - i + 1
+        minval = min(nums[i:j+1])
+        maxval = max(nums[i:j+1])
+        while j < len(nums) and nums[j] < maxval:
+            j += 1
+        while i >= 0 and nums[i] > minval:
+            i -= 1
+        return j - i - 1
