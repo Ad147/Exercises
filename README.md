@@ -248,6 +248,7 @@ LeetCode
 | 888  | Fair Candy Swap `E`                                            |  1sk   |   92%   |  7'   |    `py`    |
 | 892  | Surface Area of 3D Shapes `E`                                  |  acc   |   94%   |  45'  |    `py`    |
 | 893  | Groups of Special-Equivalent Strings `E`                       |  acc   |  100%   |  21'  |    `py`    |
+| 894  | All Possible Full Binary Trees `M`                             |  acc   |   72%   |  51'  |   `cpp`    |
 | 896  | Monotonic Array `E`                                            |  1sk   |   97%   |  9'   |    `py`    |
 | 897  | Increasing Order Search Tree `E`                               |  1sk   |   89%   |  19'  |    `py`    |
 | 905  | Sort Array By Parity `E`                                       |  1sk   |    -    |   -   |    `cs`    |
