@@ -181,6 +181,7 @@ LeetCode
 | 643  | Maximum Average Subarray I `E`                                 |  1sk   |   98%   |  9'   |    `py`    |
 | 645  | Set Mismatch `E`                                               |  acc   |   91%   |  34'  |    `py`    |
 | 653  | Two Sum IV - Input is a BST `E`                                |  acc   |   98%   |  27'  |    `py`    |
+| 654  | Maximum Binary Tree `M`                                        |  1sk   |   88%   |  21'  |    `py`    |
 | 657  | Robot Return to Origin `E`                                     |  1sk   |   97%   |   -   |    `cs`    |
 | 658  | Find K Closest Elements `M`                                    |  acc   |   98%   |  50'  |   `cpp`    |
 | 661  | Image Smoother `E`                                             |  acc   |   54%   |  60'  |    `py`    |
